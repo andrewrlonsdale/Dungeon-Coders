@@ -65,8 +65,8 @@ db.platforms.insert([
     manufacturor: "Saga",
     image: "",
     logo: "",
-    release_date: "",
-    original_price: "",
+    release_date: "1988",
+    original_price: "£189",
     description: ""
   },
   {
