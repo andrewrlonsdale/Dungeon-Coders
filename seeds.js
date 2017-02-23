@@ -23,18 +23,46 @@ db.games.insert([
     catagory: "Adventure/Racing",
     player_perspective: "n/a",
     game_modes: "n/a",
-    initial_release: "n/a",
-    popularity: "n/a",
+    initial_release: "1991",
+    popularity: "Over 15 million sold",
     platforms: "Saga Genesis",
     game_size: "512kB",
+    description: ""
+  },
+  {
+    title: "",
+    developers: "",
+    image: "",
+    music: "",
+    catagory: "",
+    player_perspective: "",
+    game_modes: "",
+    initial_release: "",
+    popularity: "",
+    platforms: "",
+    game_size: "",
+    description: ""
+  },
+  {
+    title: "",
+    developers: "",
+    image: "",
+    music: "",
+    catagory: "",
+    player_perspective: "",
+    game_modes: "",
+    initial_release: "",
+    popularity: "",
+    platforms: "",
+    game_size: "",
     description: ""
   }
 ]);
 
 db.platforms.insert([
   {
-    name: "",
-    manufacturor: "",
+    name: "Genesis, Mega Drive",
+    manufacturor: "Saga",
     image: "",
     logo: "",
     release_date: "",
