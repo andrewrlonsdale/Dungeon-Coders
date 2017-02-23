@@ -1,0 +1,25 @@
+{
+  "name": "dungeon_coders",
+  "version": "1.0.0",
+  "description": "Creating an interactive timeline about the history of video gaming, with details of the most influential platforms and games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "n/a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpfrith/Dungeon-Coders.git"
+  },
+  "keywords": [
+    "n/a"
+  ],
+  "author": "bpfrith, sean_fearly, andrew_lonsdale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpfrith/Dungeon-Coders/issues"
+  },
+  "homepage": "https://github.com/bpfrith/Dungeon-Coders#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
