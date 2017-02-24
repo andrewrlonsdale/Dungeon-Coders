@@ -70,6 +70,51 @@ db.platforms.insert([
     description: ""
   },
   {
+    name: "Magnavox Odyssey",
+    manufacturor: "Magnavox",
+    image: "",
+    logo: "",
+    release_date: "1972",
+    original_price: "US$99 (equivalent to $566.83 in 2016",
+    description: ""
+  },
+  {
+    name: "Atari 2600",
+    manufacturor: "Atari",
+    image: "",
+    logo: "",
+    release_date: "1977",
+    original_price: "US$199 (equivalent to $786.49 in 2016)",
+    description: ""
+  },
+  {
+    name: "ZX Spectrum 48k",
+    manufacturor: "Timex Corporation",
+    image: "",
+    logo: "",
+    release_date: "1982",
+    original_price: "n/a",
+    description: ""
+  },
+  {
+    name: "Nintendo Entertainment System",
+    manufacturor: "Nintendo",
+    image: "",
+    logo: "",
+    release_date: "1983",
+    original_price: "$299 (US Deluxe Set)",
+    description: ""
+  },
+  {
+    name: "",
+    manufacturor: "",
+    image: "",
+    logo: "",
+    release_date: "",
+    original_price: "",
+    description: ""
+  },
+  {
     name: "",
     manufacturor: "",
     image: "",
