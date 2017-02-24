@@ -131,5 +131,32 @@ db.platforms.insert([
     release_date: "1994(",
     original_price: "$299",
     description: ""
+  },
+  {
+    name: "Dreamcast",
+    manufacturor: "Sega",
+    image: "",
+    logo: "",
+    release_date: "1999(",
+    original_price: "$199",
+    description: ""
+  },
+  {
+    name: "Xbox 360",
+    manufacturor: "Microsoft",
+    image: "",
+    logo: "",
+    release_date: "2005(",
+    original_price: "$299(core) $399(premium)",
+    description: ""
+  },
+  {
+    name: "Wii",
+    manufacturor: "Nintendo",
+    image: "",
+    logo: "",
+    release_date: "2006(",
+    original_price: "$249",
+    description: ""
   }
 ]);
