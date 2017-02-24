@@ -1,6 +1,7 @@
 var express = require('express');
 var gameRouter = express.Router();
-var GamesQuery = require('../app/client/db/gamesQuery');
+var Game = require('../client/src/models/game');
+var GamesQuery = require('../client/db/gamesQuery');
 var query = new GamesQuery();
 
 gameRouter.get('/', function(req, res) {
@@ -15,23 +16,23 @@ gameRouter.get('/:id', function(req, res){
   });
 });
 
-// gameRouter.post('/', function(req, res){
-//   var newgame = new Game(req.body);
-//   query.addgame(newgame, function(results){
-//     res.json(results);
-//   });
-// });
+gameRouter.post('/', function(req, res){
+  var newgame = new Game(req.body);
+  query.addgame(newgame, function(results){
+    res.json(results);
+  });
+});
 
-// gameRouter.put('/:id', function(req, res){
-//   var updatedDetails = req.body;
-//   query.updategame(updatedDetails, req.params.id, function(results){
-//     res.json(results);
-//   });
-// });
+gameRouter.put('/:id', function(req, res){
+  var updatedDetails = req.body;
+  query.updategame(updatedDetails, req.params.id, function(results){
+    res.json(results);
+  });
+});
 
-// gameRouter.delete('/:id', function(req, res){
-//   query.deletegame(req.params.id, function(results){
-//     res.json(results);
-//   })
-// });
+gameRouter.delete('/:id', function(req, res){
+  query.deletegame(req.params.id, function(results){
+    res.json(results);
+  })
+});
 module.exports = gameRouter;
