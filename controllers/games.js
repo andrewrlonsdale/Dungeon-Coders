@@ -1,6 +1,6 @@
 var express = require('express');
 var gameRouter = express.Router();
-var GamesQuery = require('../client/db/gamesQuery');
+var GamesQuery = require('../app/client/db/gamesQuery');
 var query = new GamesQuery();
 
 gameRouter.get('/', function(req, res) {
