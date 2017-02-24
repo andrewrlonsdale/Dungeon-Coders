@@ -1,7 +1,7 @@
 var express = require('express');
 var platformRouter = express.Router();
 
-var PlatformsQuery = require('../client/db/platformsQuery');
+var PlatformsQuery = require('../app/client/db/platformsQuery');
 var query = new PlatformsQuery();
 
 platformRouter.get('/', function(req, res) {
