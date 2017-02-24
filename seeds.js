@@ -61,12 +61,12 @@ db.games.insert([
 
 db.platforms.insert([
   {
-    name: "Genesis, Mega Drive",
+    name: "Genesis/Mega Drive",
     manufacturor: "Saga",
     image: "",
     logo: "",
     release_date: "1988",
-    original_price: "£189",
+    original_price: "$189",
     description: ""
   },
   {
@@ -121,6 +121,15 @@ db.platforms.insert([
     logo: "",
     release_date: "",
     original_price: "",
+    description: ""
+  },
+  {
+    name: "PlayStation",
+    manufacturor: "Sony",
+    image: "",
+    logo: "",
+    release_date: "1994(",
+    original_price: "$299",
     description: ""
   }
 ]);
