@@ -58,24 +58,3 @@ db.games.insert([
     description: ""
   }
 ]);
-
-db.platforms.insert([
-  {
-    name: "Genesis, Mega Drive",
-    manufacturor: "Saga",
-    image: "",
-    logo: "",
-    release_date: "",
-    original_price: "",
-    description: ""
-  },
-  {
-    name: "",
-    manufacturor: "",
-    image: "",
-    logo: "",
-    release_date: "",
-    original_price: "",
-    description: ""
-  }
-]);
