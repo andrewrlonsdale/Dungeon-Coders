@@ -23,12 +23,16 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
       var li = document.createElement('li');
+      var image = document.createElement('img');
       this.appendText(li, game.console, "console: ");
       this.appendText(li, game.year, "year: ");
-      this.appendText(li, game.hardware_spec, "hardware spec: ");
-      this.appendText(li, game.unit_sales, "unit sales: ");
-      this.appendText(li, game.desc, "description: ");
+      this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
+      this.appendText(li, game.UnitSales, "unit sales: ");
+      this.appendText(li, game.copy, "copy: ");
+      image.src = game.img;     
+      li.appendChild(image);
       container.appendChild(li);
+ 
     }.bind(this));
   },
 }
