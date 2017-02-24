@@ -7,8 +7,8 @@ var GamesQuery = function(){
 GamesQuery.prototype = {
   all: function(onQueryFinished){
     MongoClient.connect(this.url, function(err, db){
-      var questions = db.collection('questions');
-      questions.find().toArray(function(err, docs){
+      var games = db.collection('games');
+      games.find().toArray(function(err, docs){
         onQueryFinished(docs);
       });
     });

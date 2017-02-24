@@ -1,5 +1,6 @@
-use the_dungeon;
 
+use the_dungeon;
+db.games.drop();
 db.games.insert([
   { 
     title: "Tennis for Two",
