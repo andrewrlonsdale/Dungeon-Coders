@@ -1,3 +1,5 @@
+drop.the_dungeon.collection();
+
 use the_dungeon;
 
 // db.games.insert([
