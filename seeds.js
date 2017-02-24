@@ -1,6 +1,6 @@
 use the_dungeon;
 
-db.games.insert([
+// db.games.insert([
 //   { 
 //     title: "Tennis for Two",
 //     developers: "William Higinbotham",
