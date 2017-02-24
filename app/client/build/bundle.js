@@ -95,11 +95,10 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
       var li = document.createElement('li');
-      this.appendText(li, game.console, "console: ");
-      this.appendText(li, game.year, "year: ");
-      this.appendText(li, game.hardware_spec, "hardware spec: ");
-      this.appendText(li, game.unit_sales, "unit sales: ");
-      this.appendText(li, game.desc, "description: ");
+      this.appendText(li, game.title, "console: ");
+      this.appendText(li, game.developers, "year: ");
+      this.appendText(li, game.image, "img: ");
+      this.appendText(li, game.music, "music: ");
       container.appendChild(li);
     }.bind(this));
   },
@@ -114,10 +113,16 @@ module.exports = UI;
 /***/ (function(module, exports) {
 
 var Game = function(options) {
-  this.year = options.year;
-  this.hardware_spec = options.hardware_spec;
-  this.unit_sales = options.unit_sales;
-  this.desc = options.desc;
+  // this.year = options.year;
+  // this.hardware_spec = options.hardware_spec;
+  // this.unit_sales = options.unit_sales;
+  // this.desc = options.desc;
+  this.title = options.title;
+  this.developers = options.developers;
+  this.image = options.image;
+  this.music = options.music;
+  
+
 }
 
 module.exports = Game;

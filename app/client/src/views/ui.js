@@ -23,11 +23,10 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
       var li = document.createElement('li');
-      this.appendText(li, game.console, "console: ");
-      this.appendText(li, game.year, "year: ");
-      this.appendText(li, game.hardware_spec, "hardware spec: ");
-      this.appendText(li, game.unit_sales, "unit sales: ");
-      this.appendText(li, game.desc, "description: ");
+      this.appendText(li, game.title, "console: ");
+      this.appendText(li, game.developers, "year: ");
+      this.appendText(li, game.image, "img: ");
+      this.appendText(li, game.music, "music: ");
       container.appendChild(li);
     }.bind(this));
   },
