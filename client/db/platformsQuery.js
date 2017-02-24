@@ -4,7 +4,7 @@ var GamesQuery = function(){
   this.url = 'mongodb://localhost:27017/the_dungeon';
 }
 
-GamesQuery.prototype = {
+PlatformsQuery.prototype = {
   all: function(onQueryFinished){
     MongoClient.connect(this.url, function(err, db){
       var questions = db.collection('questions');
@@ -15,4 +15,4 @@ GamesQuery.prototype = {
   }
 }
 
-module.exports = GamesQuery;
+module.exports = PlatformsQuery;

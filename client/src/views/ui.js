@@ -24,6 +24,10 @@ UI.prototype = {
     games.forEach(function(game){
       var li = document.createElement('li');
       this.appendText(li, game.platforms, "platforms: ");
+      this.appendText(li, game.title, "console: ");
+      this.appendText(li, game.developers, "year: ");
+      this.appendText(li, game.image, "img: ");
+      this.appendText(li, game.music, "music: ");
       container.appendChild(li);
     }.bind(this));
   },

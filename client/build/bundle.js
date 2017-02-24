@@ -95,7 +95,14 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
       var li = document.createElement('li');
+<<<<<<< HEAD:client/build/bundle.js
       this.appendText(li, game.platforms, "platforms: ");
+=======
+      this.appendText(li, game.title, "console: ");
+      this.appendText(li, game.developers, "year: ");
+      this.appendText(li, game.image, "img: ");
+      this.appendText(li, game.music, "music: ");
+>>>>>>> fd91c1c44b061e23198182826f3ce2e03122ec57:client/build/bundle.js
       container.appendChild(li);
     }.bind(this));
   },
@@ -110,7 +117,20 @@ module.exports = UI;
 /***/ (function(module, exports) {
 
 var Game = function(options) {
+<<<<<<< HEAD:client/build/bundle.js
   this.platforms = options.platforms;
+=======
+  // this.year = options.year;
+  // this.hardware_spec = options.hardware_spec;
+  // this.unit_sales = options.unit_sales;
+  // this.desc = options.desc;
+  this.title = options.title;
+  this.developers = options.developers;
+  this.image = options.image;
+  this.music = options.music;
+  
+
+>>>>>>> fd91c1c44b061e23198182826f3ce2e03122ec57:client/build/bundle.js
 }
 
 module.exports = Game;
