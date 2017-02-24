@@ -4,7 +4,8 @@
   "description": "Creating an interactive timeline about the history of video gaming, with details of the most influential platforms and games.",
   "main": "index.js",
   "scripts": {
-    "test": "n/a"
+    "test": "n/a",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
