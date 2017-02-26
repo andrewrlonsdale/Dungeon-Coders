@@ -121,3 +121,67 @@ padding-right: 115px;
            background-size: 40%;
          }
          
+
+         .tree,
+         .cloud {
+           position: absolute;
+           bottom: -15px;
+           transform-origin: bottom;
+           transform-origin: bottom;
+           background-repeat: no-repeat;
+           z-index: -1;
+         }
+         
+         .cloud {
+           top: 0vh;
+           margin-top: -100vh;
+         }
+         
+         .cloud-one {
+           background-image: url(http://i.imgur.com/4Oq6gmR.png);
+           width: 322px;
+           height: 245px;
+         }
+         
+         .cloud-two {
+           background-image: url(http://i.imgur.com/a3qDe8d.png);
+           width: 335px;
+           height: 101px;
+         }
+         
+         .cloud-three {
+           background-image: url(http://i.imgur.com/kmzLESi.png);
+           width: 374px;
+           height: 201px;
+         }
+         
+         .cloud-four {
+           background-image: url(http://i.imgur.com/ZKXcWbM.png);
+           width: 318px;
+           height: 201px;
+         }
+         
+         .cloud-five {
+           background-image: url(http://i.imgur.com/zc6z0Tq.png);
+           width: 374px;
+           height: 302px;
+         }
+         
+         .grnd {
+           display: block;
+           position: absolute;
+           left: -80%;
+           width: 260%;
+           height: 100vh;
+           bottom: 0;
+           background: #49E20E;
+           transform-origin: bottom;
+           transform: rotateX(90deg); 
+         }
+         
+         #forest {
+           display: inline-block;
+           position: relative;
+           width: 500vw;
+           height: 100vh;
+         }
