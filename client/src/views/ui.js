@@ -5,11 +5,6 @@ var UI = function(){
   gameDataRequester.all(function(results){
     this.render(results);
   }.bind(this));
-
-  var platform_event = document.getElementById("platfom_event");
-  console.log(platform_event);
-  platform_event.addEventListener("click", this.platform_event);
-
 }
 
 UI.prototype = {
@@ -17,17 +12,6 @@ UI.prototype = {
     var p = document.createElement('p');
     p.innerText = label + text;
     return p;
-  },
-
-  handleResgisterButtonClick: function(){
-    new infoBoxUI();
-  },
-
-  handleButtonClick: function(){
-    var infoBoxButton = document.createElement('button');
-    infoBoxButton.innertext = "Console";
-    div.appendChild(infoBoxButton);
-    registerButton.onclick = this.handleRegisterButtonClick;
   },
 
   appendText: function(element, text, label){
@@ -48,10 +32,6 @@ UI.prototype = {
       // image.src = game.img;     
       // li.appendChild(image);
       container.appendChild(li);
-<<<<<<< HEAD
-
-=======
->>>>>>> develop
     }.bind(this));
   },
 
