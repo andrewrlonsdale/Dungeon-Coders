@@ -1,0 +1,204 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);       
+body {
+          margin: 0;
+          height: 100vh;
+          width: 100vw;
+          background: #003366;
+          overflow-x: hidden;
+        }
+ @font-face {
+    font-family: myFirstFont;
+    src: url(/04b_30/04B_30__.TTF);
+}       
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 115px;
+    font-family: myFirstFont;
+    font-size: 30px;
+    color: yellow;
+
+}
+
+#games {
+
+  display: flex;
+  color: yellow;
+  font-size: 30px;
+  font-family: myFirstFont;
+
+}
+
+li {
+  list-style-type: none;
+  padding-right: 115px;
+
+}
+
+#explain {
+  position:absolute;
+  left:10px;
+  top:0;
+   font-family:"Open Sans",Arial,sans-serif;
+  font-size:3em;
+}
+
+        #plax {
+          margin: 0;
+          position: absolute;
+          height: 100vh;
+          width: 100vw;
+          overflow-y: hidden;
+          overflow-x: scroll;
+          perspective: 150px;
+          perspective: 150px;
+          perspective-origin: center;
+          perspective-origin: center;
+          transition: 2s;
+          transition: 2s;
+        }
+        
+        .plax-grp {
+          transform-style: preserve-3d;
+          display: inline-block;
+          float: left;
+          width: 500vw;
+        }
+
+         .tree-one {
+           background: url(http://i.imgur.com/osIQCLS.png);
+           width: 201px;
+           height: 209px;
+         }
+         
+         .tree-two {
+           background: url(http://i.imgur.com/joUrlbZ.png);
+           width: 226px;
+           height: 409px;
+         }
+         
+        /*  .tree-three {
+           background: url(http://i.imgur.com/zVf8bEK.png);
+           width: 325px;
+           height: 536px;
+         } */
+         
+         /* .tree-four {
+           background: url(http://i.imgur.com/SvJ4ieV.png);
+           width: 325px;
+           height: 436px;
+         }
+         
+         .tree-pine {
+           background: url(http://i.imgur.com/VS1u1XB.png);
+           width: 118px;
+           height: 229px;
+         } */
+
+         /*.char-one {
+           background: url(../images/Banjo-Kazooie.png);
+           width: 201px;
+           height: 209px;
+         }
+         
+         .char-two {
+           background: url(../images/Mario8bit.png);
+           width: 226px;
+           height: 409px;
+         }
+         
+         .char-three {
+           background: url(../images/goomba_8_bit__pixel_art_by_grifuz-d45pmyd.png);
+           width: 325px;
+           height: 536px;
+         }
+         
+         .char-four {
+           background: url(/images/pokemon_yellow_character_and_pikachu_sprites_by_eri_tchi-d4moyx2%20%281%29.png);
+           width: 325px;
+           height: 436px;
+         }
+         */
+         
+         
+         .stone-one {
+           background: url(http://i.imgur.com/YLQt8Nl.png) bottom no-repeat;
+           width: 166px;
+           height: 67px;
+           background-size: 40%;
+         }
+         
+         .stone-two {
+           background: url(http://i.imgur.com/yVZHAEC.png) bottom no-repeat;
+           width: 166px;
+           height: 55px;
+           background-size: 40%;
+         }
+         
+
+         .tree,
+         .cloud {
+           position: absolute;
+           bottom: -15px;
+           transform-origin: bottom;
+           transform-origin: bottom;
+           background-repeat: no-repeat;
+           z-index: -1;
+         }
+         
+         .cloud {
+           top: 0vh;
+           margin-top: -100vh;
+         }
+         
+         .cloud-one {
+           background-image: url(http://i.imgur.com/4Oq6gmR.png);
+           width: 322px;
+           height: 245px;
+         }
+         
+         .cloud-two {
+           background-image: url(http://i.imgur.com/a3qDe8d.png);
+           width: 335px;
+           height: 101px;
+         }
+         
+         .cloud-three {
+           background-image: url(http://i.imgur.com/kmzLESi.png);
+           width: 374px;
+           height: 201px;
+         }
+         
+         .cloud-four {
+           background-image: url(http://i.imgur.com/ZKXcWbM.png);
+           width: 318px;
+           height: 201px;
+         }
+         
+         .cloud-five {
+           background-image: url(http://i.imgur.com/zc6z0Tq.png);
+           width: 374px;
+           height: 302px;
+         }
+         
+         .grnd {
+           display: block;
+           position: absolute;
+           left: -80%;
+           width: 260%;
+           height: 100vh;
+           bottom: 0;
+           background: #49E20E;
+           transform-origin: bottom;
+           transform: rotateX(90deg); 
+         }
+         
+         #forest {
+           display: inline-block;
+           position: relative;
+           width: 500vw;
+           height: 100vh;
+         }
+
+
