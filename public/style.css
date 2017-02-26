@@ -1,0 +1,52 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);       
+body {
+          margin: 0;
+          height: 100vh;
+          width: 100vw;
+          background: #003366;
+          overflow-x: hidden;
+        }
+ @font-face {
+    font-family: myFirstFont;
+    src: url(../04b_30/04B_30__.TTF);
+}       
+#navlist li
+{
+display: inline;
+list-style-type: none;
+padding-right: 115px;
+    font-family: myFirstFont;
+    font-size: 30px;
+    color: yellow;
+
+}
+
+#explain {
+  position:absolute;
+  left:10px;
+  top:0;
+   font-family:"Open Sans",Arial,sans-serif;
+  font-size:3em;
+}
+
+        #plax {
+          margin: 0;
+          position: absolute;
+          height: 100vh;
+          width: 100vw;
+          overflow-y: hidden;
+          overflow-x: scroll;
+          perspective: 150px;
+          perspective: 150px;
+          perspective-origin: center;
+          perspective-origin: center;
+          transition: 2s;
+          transition: 2s;
+        }
+        
+        .plax-grp {
+          transform-style: preserve-3d;
+          display: inline-block;
+          float: left;
+          width: 500vw;
+        }     
