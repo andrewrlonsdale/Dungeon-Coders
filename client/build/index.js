@@ -32,22 +32,14 @@ function cloudTrees(type, parent, number, zMin, zMax) {
     var thingType = {
         tree: ['tree-one',
             'tree-two',
-            'tree-three',
-            'tree-four',
-            'tree-pine',
             'stone-one',
-            'stone-two',
-            'stone-one',
-            'stone-two'],
+            'stone-two'
+           ],
         cloud: ['cloud-one',
               'cloud-two',
               'cloud-three',
               'cloud-four',
-              'cloud-five'],
-        // char:  ['char-one',
-        //     'char-two',
-        //     'char-three',
-        //     'char-four']
+              'cloud-five']
     };
     for (i = 0; i < (number); i++) {
         var thisThing = thingType[type];
