@@ -27,7 +27,7 @@ UI.prototype = {
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
       p.setAttribute("class", "_" + game.tag);
-      this.appendText(p, game.console, "");
+      p.innerText= game.console;
 
       container2.appendChild(p);
 
