@@ -8,12 +8,12 @@ var UI = function(){
 }
 
 UI.prototype = {
-  
-  
+
+
   render: function(games){
     var container = document.querySelector('#games');
     games.forEach(function(game){
-      
+
       var h3 = document.createElement('h3');
       h3.setAttribute("value", game.tag);
       h3.innerText= game.year;
