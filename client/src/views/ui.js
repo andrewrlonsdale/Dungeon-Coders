@@ -18,11 +18,12 @@ UI.prototype = {
       h3.setAttribute("value", game.tag);
       h3.innerText= game.year;
       container.appendChild(h3);
-      
+
+      var container5 = document.querySelector('#games');
       var image = document.createElement('img');
       image.setAttribute("value", game.tag);
       image.src = game.img;  
-      container.appendChild(image);
+      container5.appendChild(image);
 
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
