@@ -25,9 +25,9 @@ UI.prototype = {
       var li = document.createElement('li');
       var button = document.createElement('button');
       var image = document.createElement('img');
-      li.setAttribute("id", game.tag);
-      button.setAttribute("id", game.tag);
-      image.setAttribute("id", game.tag);
+      li.setAttribute("value", game.tag);
+      button.setAttribute("value", game.tag);
+      image.setAttribute("value", game.tag);
 
       this.appendText(li, game.year, "");
 
@@ -38,25 +38,23 @@ UI.prototype = {
       };
 
 
-
-
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
-      p.setAttribute("id", game.tag);
+      p.setAttribute("class", "_" + game.tag);
       this.appendText(p, game.console, "");
       container2.appendChild(p);
 
 
       var container3 = document.querySelector('#foot');
       var p = document.createElement('p');
-      p.setAttribute("id", game.tag);
+      p.setAttribute("class", "_" + game.tag);
       this.appendText(p, game.year, "");
 
       container3.appendChild(p);
 
       var container4 = document.querySelector('#body');
       var p = document.createElement('p');
-      p.setAttribute("id", game.tag);
+      p.setAttribute("class", "_" + game.tag);
       this.appendText(p, game.console, "");
       this.appendText(p, game.HardwareSpec, "");
       this.appendText(p, game.UnitSales, "");
@@ -71,10 +69,34 @@ UI.prototype = {
       // Get the modal
       var modal = document.getElementById('myModal');
       
+          // console.log("we're here", p)
 
-        image.onclick = function() {
-          modal.style.display = "block";
+          // COMMENT ME BACK ONCE I'M REFACTORED
+      // var resetModal = function(){
+      //   var modalChildren = modal.getElementsByTagName("div")
+      //   for(var div of modalChildren){
+      //     var pTags = div.getElementsByTagName("p")
+      //     for(var pTag of pTags){
+      //       pTag.style.display = "none";
+      //     }
+      //   }
+      // }
+
+      image.onclick = function() {
+        // resetModal();
+        modal.style.display = "block";
+        if(game.tag === image.getAttribute("value")) {
+         var modalChildren = modal.getElementsByTagName("div")
+         for(var div of modalChildren){
+          var pTags = div.getElementsByTagName("p")
+            for(var pTag of pTags){
+              if(pTag.getAttribute("class") === "_" + game.tag){
+                pTag.style.display = "block";
+              }
+            }
+         }
         }
+      }
 
       // Get the <span> element that closes the modal
       var span = document.getElementsByClassName("close")[0];
@@ -82,6 +104,7 @@ UI.prototype = {
       // When the user clicks on <span> (x), close the modal
       span.onclick = function() {
         modal.style.display = "none";
+
       }
 
       // When the user clicks anywhere outside of the modal, close it
@@ -91,22 +114,10 @@ UI.prototype = {
         }
       }
 
-      // this.appendText(li, game.console, "console: ");
-      // this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
-      // this.appendText(li, game.UnitSales, "unit sales: ");
-      // this.appendText(li, game.copy, "copy: ");
+
     }.bind(this));
   },
 
-  // render2: function(games){
-    //   var container = document.querySelector('#explain');
-    //   games.forEach(function(game){
-      //     var li = document.createElement('li');
-      //     this.appendText(li, game.year, "year: ");
-      //     container.appendChild(li);
-      //   }.bind(this));
-      // },
-    };
+};
 
-    // wtf
-    module.exports = UI;
+module.exports = UI;

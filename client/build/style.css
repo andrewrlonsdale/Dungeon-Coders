@@ -223,12 +223,23 @@ li {
 
               /* The Modal (background) */
 
-/*
-              p {
-                display: none;*/
 
-/*              }
-*/              .modal {
+              ._1 {
+                display: none;
+              }
+              ._2 {
+                display: none;
+              }
+              ._3 {
+                display: none;
+              }
+              ._4 {
+                display: none;
+              }
+              ._5 {
+                display: none;
+              }
+              .modal {
                   display: none; /* Hidden by default */
                   position: fixed; /* Stay in place */
                   z-index: 1; /* Sit on top */
