@@ -34,8 +34,6 @@ UI.prototype = {
         li.appendChild(br);   
 };
 
-
-
 var container2 = document.querySelector('#head');
   var p = document.createElement('p');
   this.appendText(p, game.console, "");
@@ -56,7 +54,6 @@ var container2 = document.querySelector('#head');
        this.appendText(p, game.copy, "");
 
        container4.appendChild(p);
-
 
       image.src = game.img;  
       li.appendChild(image);
