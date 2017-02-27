@@ -38,12 +38,15 @@ button {
   color: yellow;
   font-size: 30px;
   font-family: myFirstFont;
+  margin: 200px, 200px, 200px, 200px;
 
 }
 
 li {
   list-style-type: none;
-  padding-right: 115px;
+  padding-right: 215px;
+  margin-bottom: : 200px;
+  margin: 200px, 200px, 200px, 200px;
 
 }
 
