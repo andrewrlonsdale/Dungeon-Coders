@@ -20,8 +20,6 @@ UI.prototype = {
       container.appendChild(h3);
       
       var image = document.createElement('img');
-      li.setAttribute("value", game.tag);
-      button.setAttribute("value", game.tag);
       image.setAttribute("value", game.tag);
 
       this.appendText(li, game.year, "");
