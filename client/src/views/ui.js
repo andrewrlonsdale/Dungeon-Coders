@@ -38,12 +38,11 @@ UI.prototype = {
       };
 
 
-
-
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
       p.setAttribute("id", game.tag);
       this.appendText(p, game.console, "");
+
       container2.appendChild(p);
 
 
@@ -53,6 +52,7 @@ UI.prototype = {
       this.appendText(p, game.year, "");
 
       container3.appendChild(p);
+
 
       var container4 = document.querySelector('#body');
       var p = document.createElement('p');
