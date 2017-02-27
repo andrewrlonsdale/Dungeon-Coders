@@ -8,17 +8,8 @@ var UI = function(){
 }
 
 UI.prototype = {
-  createText: function(text, label){
-    var p = document.createElement('p');
-    p.innerText = label + text;
-    return p;
-  },
-
-  appendText: function(element, text, label){
-    var pTag = this.createText(text, label);
-    element.appendChild(pTag);
-  },
-
+  
+  
   render: function(games){
     var container = document.querySelector('#games');
     games.forEach(function(game){
