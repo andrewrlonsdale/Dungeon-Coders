@@ -1,4 +1,5 @@
 var Game = function(options) {
+  
   this.console = options.console;
   this.year = options.year;
   this.img = options.img;
