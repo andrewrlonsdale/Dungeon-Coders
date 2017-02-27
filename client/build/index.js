@@ -59,7 +59,7 @@ function cloudTrees(type, parent, number, zMin, zMax) {
         setAttrs(tree, {
             'id': type + '-' + i,
             'class': type + ' ' + thisThing[rand(0, 6)],
-            'style': 'left:' + (rand(50 * zPos, targetWidth)) + 'px;-transform:translateZ(' + zPos + 'px)scale(' + scaler + ');transform:translateZ(' + zPos + 'px) scale(' + scaler + ');'
+            'style': 'left:' + (rand(150 * zPos, targetWidth)) + 'px;-transform:translateZ(' + zPos + 'px)scale(' + scaler + ');transform:translateZ(' + zPos + 'px) scale(' + scaler + ');'
         });
         target.appendChild(tree);
     }
@@ -69,6 +69,7 @@ function cloudTrees(type, parent, number, zMin, zMax) {
             cloudTrees('cloud', 'forest', 50, -500, -1000);
             cloudTrees('char', 'forest', 50, -600, -1100);
 
+           
 
 
-            
+    
