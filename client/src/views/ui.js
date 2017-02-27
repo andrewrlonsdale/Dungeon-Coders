@@ -33,7 +33,29 @@ UI.prototype = {
         var br = document.createElement("br");
         li.appendChild(br);   
 };
-     
+
+
+
+var container2 = document.querySelector('#head');
+  var p = document.createElement('p');
+  this.appendText(p, game.console, "");
+  container2.appendChild(p);
+
+  var container3 = document.querySelector('#foot');
+    var p = document.createElement('p');
+    this.appendText(p, game.year, "");
+
+  container3.appendChild(p);
+
+     var container4 = document.querySelector('#body');
+       var p = document.createElement('p');
+       
+       this.appendText(p, game.console, "");
+       this.appendText(p, game.HardwareSpec, "");
+       this.appendText(p, game.UnitSales, "");
+       this.appendText(p, game.copy, "");
+
+       container4.appendChild(p);
 
 
       image.src = game.img;  
@@ -42,22 +64,12 @@ UI.prototype = {
 
       // Get the modal
       var modal = document.getElementById('myModal');
-      // var container2 = document.querySelector('#modal-content');
-      // var container3 = document.querySelector('p');
-      //   var p = document.createElement('p');
-      //   this.appendText(p, game.year, "");
-      //   this.appendText(p, game.console, "");
-      //   this.appendText(p, game.HardwareSpec, "");
-      //   this.appendText(p, game.UnitSales, "");
-      //   this.appendText(p, game.copy, "");
-
-      //   container.appendChild(p);
+      
 
 
 
         image.onclick = function() {
           modal.style.display = "block";
-          container3.style.display = "block";
         }
 
       // Get the <span> element that closes the modal
@@ -92,7 +104,7 @@ UI.prototype = {
       //     container.appendChild(li);
       //   }.bind(this));
       // },
-    }
+    };
 
     // wtf
     module.exports = UI;
