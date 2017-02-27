@@ -65,9 +65,6 @@ var container2 = document.querySelector('#head');
       // Get the modal
       var modal = document.getElementById('myModal');
       
-
-
-
         image.onclick = function() {
           modal.style.display = "block";
         }
@@ -86,8 +83,6 @@ var container2 = document.querySelector('#head');
               modal.style.display = "none";
           }
       }
-
-
 
       // this.appendText(li, game.console, "console: ");
       // this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
@@ -108,4 +103,3 @@ var container2 = document.querySelector('#head');
 
     // wtf
     module.exports = UI;
-
