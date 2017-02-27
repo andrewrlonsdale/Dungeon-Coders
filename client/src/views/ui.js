@@ -52,10 +52,10 @@ UI.prototype = {
       p3.setAttribute("class", "_" + game.tag);
       
       container4.appendChild(p);
+      container4.appendChild(p2);
+      container4.appendChild(p3);
 
-      image.src = game.img;  
-      li.appendChild(image);
-      container.appendChild(li);
+      
 
       // Get the modal
       var modal = document.getElementById('myModal');
