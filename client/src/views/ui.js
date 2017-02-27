@@ -39,11 +39,13 @@ UI.prototype = {
 
 
 
+
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
       p.setAttribute("id", game.tag);
       this.appendText(p, game.console, "");
       container2.appendChild(p);
+
 
       var container3 = document.querySelector('#foot');
       var p = document.createElement('p');
@@ -62,7 +64,6 @@ UI.prototype = {
 
       container4.appendChild(p);
 
-
       image.src = game.img;  
       li.appendChild(image);
       container.appendChild(li);
@@ -71,11 +72,9 @@ UI.prototype = {
       var modal = document.getElementById('myModal');
       
 
-
-
-      image.onclick = function() {
-        modal.style.display = "block";
-      }
+        image.onclick = function() {
+          modal.style.display = "block";
+        }
 
       // Get the <span> element that closes the modal
       var span = document.getElementsByClassName("close")[0];
@@ -91,8 +90,6 @@ UI.prototype = {
           modal.style.display = "none";
         }
       }
-
-
 
       // this.appendText(li, game.console, "console: ");
       // this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
@@ -113,4 +110,3 @@ UI.prototype = {
 
     // wtf
     module.exports = UI;
-
