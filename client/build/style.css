@@ -112,7 +112,7 @@ li {
            background: url(http://i.imgur.com/VS1u1XB.png);
            width: 118px;
            height: 229px;
-         } */
+           } */
 
          /*.char-one {
            background: url(../images/Banjo-Kazooie.png);
@@ -207,7 +207,7 @@ li {
            width: 260%;
            height: 100vh;
            bottom: 0;
-           background: #49E20E;
+           background: #4E533C;
            transform-origin: bottom;
            transform: rotateX(90deg); 
          }
