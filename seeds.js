@@ -167,7 +167,7 @@ db.games.insert([
     {
       "console": "Atari Sears Tele-Games Pong System",
       "year": "1975",
-      // "img": "/images/Ataripong.jpg",
+      "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
       "hardwareSpec": "128k",
       "unitSales": "",
       "copy":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home."
