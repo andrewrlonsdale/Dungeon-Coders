@@ -81,22 +81,19 @@ UI.prototype = {
       // this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
       // this.appendText(li, game.UnitSales, "unit sales: ");
       // this.appendText(li, game.copy, "copy: ");
-      // image.src = game.img;     
-      // li.appendChild(image);
-      container.appendChild(li);
     }.bind(this));
   },
 
   // render2: function(games){
-  //   var container = document.querySelector('#explain');
-  //   games.forEach(function(game){
-  //     var li = document.createElement('li');
-  //     this.appendText(li, game.year, "year: ");
-  //     container.appendChild(li);
-  //   }.bind(this));
-  // },
-}
+    //   var container = document.querySelector('#explain');
+    //   games.forEach(function(game){
+      //     var li = document.createElement('li');
+      //     this.appendText(li, game.year, "year: ");
+      //     container.appendChild(li);
+      //   }.bind(this));
+      // },
+    }
 
-// wtf
-module.exports = UI;
+    // wtf
+    module.exports = UI;
 
