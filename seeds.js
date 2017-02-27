@@ -224,4 +224,14 @@ db.games.insert([
       "copy":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
     },
 
+    {  
+      "tag": "7",
+      "console": "Sega SG-1000",
+      "year": "1984",
+      "img": "http://i972.photobucket.com/albums/ae206/alejandro_madera/Vectrex/DSCF3576.jpg",
+      "hardwareSpec": "3.58mhz",
+      "unitSales": null,
+      "copy":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention."
+    },
+
     ])
