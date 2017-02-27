@@ -13,8 +13,12 @@ UI.prototype = {
   render: function(games){
     var container = document.querySelector('#games');
     games.forEach(function(game){
-      var li = document.createElement('li');
-      var button = document.createElement('button');
+      
+      var h3 = document.createElement('h3');
+      h3.setAttribute("value", game.tag);
+      h3.innerText= game.year;
+      container.appendChild(h3);
+      
       var image = document.createElement('img');
       li.setAttribute("value", game.tag);
       button.setAttribute("value", game.tag);
