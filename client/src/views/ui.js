@@ -61,10 +61,6 @@ UI.prototype = {
 
       // Get the modal
       var modal = document.getElementById('myModal');
-      
-      // console.log("we're here", p)
-
-      // COMMENT ME BACK ONCE I'M REFACTORED
       var resetModal = function(){
         var modalChildren = modal.getElementsByTagName("div")
         for(var div of modalChildren){
