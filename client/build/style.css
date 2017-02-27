@@ -1,23 +1,34 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:800);       
 body {
-          margin: 0;
-          height: 100vh;
-          width: 100vw;
-          background: #003366;
-          overflow-x: hidden;
-        }
- @font-face {
-    font-family: myFirstFont;
-    src: url(/04b_30/04B_30__.TTF);
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background: #00133E;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(/04b_30/04B_30__.TTF);
 }       
+
+button {
+    display: inline-block;
+/*    height: 134px;
+*/    padding: 0;
+    margin: 0;
+    vertical-align: top;
+/*    width: 104px;
+*/}
+
 #navlist li
 {
-display: inline;
-list-style-type: none;
-padding-right: 115px;
-    font-family: myFirstFont;
-    font-size: 30px;
-    color: yellow;
+  display: inline;
+  list-style-type: none;
+  padding-right: 115px;
+  font-family: myFirstFont;
+  font-size: 30px;
+  color: yellow;
+  margin: 200px, 200px, 200px, 200px;
 
 }
 

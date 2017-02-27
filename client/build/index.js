@@ -69,6 +69,7 @@ function cloudTrees(type, parent, number, zMin, zMax) {
             cloudTrees('cloud', 'forest', 50, -500, -1000);
             cloudTrees('char', 'forest', 50, -600, -1100);
 
+           
 
 
-            
+    
