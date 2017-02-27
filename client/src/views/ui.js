@@ -42,16 +42,16 @@ UI.prototype = {
 
       // Get the modal
       var modal = document.getElementById('myModal');
-      var container2 = document.querySelector('#modal-content');
-      var container3 = document.querySelector('p');
-        var p = document.createElement('p');
-        this.appendText(p, game.year, "");
-        this.appendText(p, game.console, "");
-        this.appendText(p, game.HardwareSpec, "");
-        this.appendText(p, game.UnitSales, "");
-        this.appendText(p, game.copy, "");
+      // var container2 = document.querySelector('#modal-content');
+      // var container3 = document.querySelector('p');
+      //   var p = document.createElement('p');
+      //   this.appendText(p, game.year, "");
+      //   this.appendText(p, game.console, "");
+      //   this.appendText(p, game.HardwareSpec, "");
+      //   this.appendText(p, game.UnitSales, "");
+      //   this.appendText(p, game.copy, "");
 
-        container.appendChild(p);
+      //   container.appendChild(p);
 
 
 
