@@ -71,7 +71,7 @@ UI.prototype = {
         }
       }
 
-      image.onch3ck = function() {
+      image.onclick = function() {
         resetModal();
         modal.style.display = "block";
         if(game.tag === image.getAttribute("value")) {
