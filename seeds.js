@@ -1,6 +1,6 @@
-drop.the_dungeon.collection();
 
 use the_dungeon;
+db.games.drop();
 
 // db.games.insert([
 //   { 
