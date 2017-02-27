@@ -23,8 +23,9 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
       var li = document.createElement('li');
-      // var image = document.createElement('img');
-      // this.appendText(li, game.console, "console: ");
+      var button = document.createElement('button');
+      var image = document.createElement('img');
+
       this.appendText(li, game.year, "");
       // this.appendText(li, game.HardwareSpec, "Hardware Spec: ");
       // this.appendText(li, game.UnitSales, "unit sales: ");
