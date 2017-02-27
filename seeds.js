@@ -244,4 +244,14 @@ db.games.insert([
       "copy":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
     },
 
+    {  
+      "tag": "9",
+      "console": "Sega Mega-Drive (US: Genesis)",
+      "year": "1988",
+      "img": "https://en.wikipedia.org/wiki/Sega_Genesis#/media/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+      "hardwareSpec": "7.6mhz",
+      "unitSales": 30000000,
+      "copy":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
+    },
+
     ])
