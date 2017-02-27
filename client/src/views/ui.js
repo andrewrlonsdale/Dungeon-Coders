@@ -35,7 +35,7 @@ UI.prototype = {
       var container3 = document.querySelector('#foot');
       var p = document.createElement('p');
       p.setAttribute("class", "_" + game.tag);
-      this.appendText(p, game.year, "");
+      p.innerText= game.year;
 
       container3.appendChild(p);
 
