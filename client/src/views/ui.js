@@ -60,30 +60,29 @@ UI.prototype = {
       // Get the modal
       var modal = document.getElementById('myModal');
       
-          // console.log("we're here", p)
+      // console.log("we're here", p)
 
-          // COMMENT ME BACK ONCE I'M REFACTORED
-      // var resetModal = function(){
-      //   var modalChildren = modal.getElementsByTagName("div")
-      //   for(var div of modalChildren){
-      //     var pTags = div.getElementsByTagName("p")
-      //     for(var pTag of pTags){
-      //       pTag.style.display = "none";
-      //     }
-      //   }
-      // }
+      // COMMENT ME BACK ONCE I'M REFACTORED
+      var resetModal = function(){
+        var modalChildren = modal.getElementsByTagName("div")
+        for(var div of modalChildren){
+          var pTags = div.getElementsByTagName("p")
+          for(var pTag of pTags){
+            pTag.style.display = "none";
+          }
+        }
+      }
 
-      image.onclick = function() {
-        // resetModal();
+      image.onch3ck = function() {
+        resetModal();
         modal.style.display = "block";
         if(game.tag === image.getAttribute("value")) {
          var modalChildren = modal.getElementsByTagName("div")
          for(var div of modalChildren){
           var pTags = div.getElementsByTagName("p")
-            for(var pTag of pTags){
-              if(pTag.getAttribute("class") === "_" + game.tag){
-                pTag.style.display = "block";
-              }
+          for(var pTag of pTags){
+            if(pTag.getAttribute("class") === "_" + game.tag){
+              pTag.style.display = "block";
             }
          }
         }
