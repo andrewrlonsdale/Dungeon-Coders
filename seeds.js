@@ -214,4 +214,14 @@ db.games.insert([
       "copy":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
     },
 
+    {  
+      "tag": "6",
+      "console": "Vectrex",
+      "year": "1982",
+      "img": "http://i972.photobucket.com/albums/ae206/alejandro_madera/Vectrex/DSCF3576.jpg",
+      "hardwareSpec": "1.5mhz",
+      "unitSales": 500000,
+      "copy":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
+    },
+
     ])
