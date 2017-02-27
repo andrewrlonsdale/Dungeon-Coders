@@ -50,54 +50,58 @@ li {
 
 }
 
+
+/*-------------------------------------------*/
+                /*2d map*/
+
 #explain {
   position:absolute;
   left:10px;
   top:0;
-   font-family:"Open Sans",Arial,sans-serif;
+  font-family:"Open Sans",Arial,sans-serif;
   font-size:3em;
 }
 
-        #plax {
-          margin: 0;
-          position: absolute;
-          height: 100vh;
-          width: 100vw;
-          overflow-y: hidden;
-          overflow-x: scroll;
-          perspective: 150px;
-          perspective: 150px;
-          perspective-origin: center;
-          perspective-origin: center;
-          transition: 2s;
-          transition: 2s;
-        }
-        
-        .plax-grp {
-          transform-style: preserve-3d;
-          display: inline-block;
-          float: left;
-          width: 500vw;
-        }
+#plax {
+  margin: 0;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  perspective: 150px;
+  perspective: 150px;
+  perspective-origin: center;
+  perspective-origin: center;
+  transition: 2s;
+  transition: 2s;
+}
 
-         .tree-one {
-           background: url(http://i.imgur.com/osIQCLS.png);
-           width: 201px;
-           height: 209px;
-         }
-         
-         .tree-two {
-           background: url(http://i.imgur.com/joUrlbZ.png);
-           width: 226px;
-           height: 409px;
-         }
-         
+.plax-grp {
+  transform-style: preserve-3d;
+  display: inline-block;
+  float: left;
+  width: 500vw;
+}
+
+.tree-one {
+ background: url(http://i.imgur.com/osIQCLS.png);
+ width: 201px;
+ height: 209px;
+}
+
+.tree-two {
+ background: url(http://i.imgur.com/joUrlbZ.png);
+ width: 226px;
+ height: 409px;
+}
+
         /*  .tree-three {
            background: url(http://i.imgur.com/zVf8bEK.png);
            width: 325px;
            height: 536px;
-         } */
-         
+           } */
+
          /* .tree-four {
            background: url(http://i.imgur.com/SvJ4ieV.png);
            width: 325px;
