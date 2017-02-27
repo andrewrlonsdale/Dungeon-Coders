@@ -165,6 +165,7 @@ db.games.drop();
 
 db.games.insert([
     {
+      "tag": "1",
       "console": "Atari Sears Tele-Games Pong System",
       "year": "1975",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -174,6 +175,7 @@ db.games.insert([
     },
 
     {  
+      "tag": "2",
       "console": "Atari 2600",
       "year": "1977",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -183,6 +185,7 @@ db.games.insert([
     },
 
     {  
+      "tag": "3",
       "console": "Nintendo Entertainment System (NES)",
       "year": "1983",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -192,6 +195,7 @@ db.games.insert([
     },
 
     {  
+      "tag": "4",
       "console": "Sega Master System",
       "year": "1985",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -201,6 +205,7 @@ db.games.insert([
     },
 
     {  
+      "tag": "5",
       "console": "Sony PlayStation",
       "year": "1994",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
