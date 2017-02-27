@@ -44,7 +44,6 @@ function cloudTrees(type, parent, number, zMin, zMax) {
         var scaler = (type == 'tree') ? 1 + rand(-5, 5) / 10 : 1 + rand(-5, 5);
         var zPos = rand(zMin, zMax);
         setAttrs(tree, {
-            'id': type + '-' + i,
             'class': type + ' ' + thisThing[rand(0, 6)],
             'style': 'left:' + (rand(150 * zPos, targetWidth)) + 'px;-transform:translateZ(' + zPos + 'px)scale(' + scaler + ');transform:translateZ(' + zPos + 'px) scale(' + scaler + ');'
         });
