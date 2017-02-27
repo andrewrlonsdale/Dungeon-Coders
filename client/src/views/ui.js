@@ -37,7 +37,6 @@ UI.prototype = {
       var p = document.createElement('p');
       p.setAttribute("class", "_" + game.tag);
       p.innerText= game.year;
-
       container3.appendChild(p);
 
 
@@ -45,9 +44,11 @@ UI.prototype = {
       var p = document.createElement('p');
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
+
       p.innerText= game.HardwareSpec;
       p2.innerText= game.UnitSales;
       p3.innerText= game.copy;
+
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
       p3.setAttribute("class", "_" + game.tag);
