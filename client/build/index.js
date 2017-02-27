@@ -19,12 +19,7 @@ function makeWaves(parent, number, heightFactor, id) {
         var wave = document.createElement('div');
         var size = (target.offsetWidth / number);
         console.log(target);
-        setAttrs(wave, {
-            'id': 'wave-' + i + id,
-            'class': 'wave ' + waveType[rand(0, 1)],
-            'style': 'width:' + (size * 3) + 'px;height:' + (size * 3) + 'px;left:' + ((-size) + (size * i)) + 'px;margin-bottom:-' + size * heightFactor + 'px;-animation-delay:' + ((i / size) * 10) + 's;'
-        });
-        target.appendChild(wave);
+       
     }
 } 
 
