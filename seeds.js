@@ -228,10 +228,20 @@ db.games.insert([
       "tag": "7",
       "console": "Sega SG-1000",
       "year": "1984",
-      "img": "http://i972.photobucket.com/albums/ae206/alejandro_madera/Vectrex/DSCF3576.jpg",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sega-SG-1000-Console-Set.jpg",
       "hardwareSpec": "3.58mhz",
       "unitSales": null,
       "copy":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention."
+    },
+
+    {  
+      "tag": "8",
+      "console": "Atari 7800",
+      "year": "1986",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Atari-7800-Console-Set.jpg",
+      "hardwareSpec": "1.78mhz",
+      "unitSales": 3700000,
+      "copy":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
     },
 
     ])
