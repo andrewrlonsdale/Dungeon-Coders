@@ -60,21 +60,21 @@ db.games.insert([{
   },
   {  
     "tag": "4",
-    "console": "Vectrex",
+    "name": "Vectrex",
     "year": "1982",
     "img": "./images/platforms/vectrex.png",
-    "hardwareSpec": "1.5mhz",
+    "details": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
   },
   {
     "tag": "4.1",
-    "console": "Space Wars",
+    "name": "Space Wars",
     "year": "1982",
-    "hardwareSpec": "n/a",
+    "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
-    "pic":"./images/games/spacewars.png",
+    "desc": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
+    "img":"./images/games/spacewars.png",
     "vid":"https://www.youtube.com/watch?v=w2mb-ENbxxg"
   },
   {
