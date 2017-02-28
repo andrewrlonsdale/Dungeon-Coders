@@ -42,6 +42,13 @@ db.games.insert([{
     "unitSales": 30000000,
     "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!"
   },
+  {
+    "tag": "3.1",
+    "name": "Pacman",
+    "Details": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
+    "pic":"./images/platforms/pacman.png",
+    "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
+  },
   {  
     "tag": "4",
     "console": "Vectrex",
