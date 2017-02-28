@@ -155,10 +155,10 @@ db.games.insert([{
   },
   {  
     "tag": "9",
-    "console": "Atari 7800",
+    "name": "Atari 7800",
     "year": "1986",
     "img": "./images/platforms/atari7800.png",
-    "hardwareSpec": "1.78mhz",
+    "details": "1.78mhz",
     "unitSales": 3700000,
     "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
   },
@@ -166,9 +166,9 @@ db.games.insert([{
     "tag": "9.1",
     "name": "Asteroids",
     "year": "1986",
-    "hardwareSpec": "n/a",
+    "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Another arcade regular makes its way into the home.",
+    "desc": "Another arcade regular makes its way into the home.",
     "img":"./images/games/asteroids.png",
     "vid":"https://www.youtube.com/watch?v=cZfsnA7dAHI"
   },
