@@ -124,10 +124,10 @@ db.games.insert([{
   },
   {
     "tag": "8.1",
-    "name": "Wonder Boy",
-    "Details": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
-    "pic":"./images/platforms/wonderboy.png",
-    "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
+    "name": "Sonic The Hedgehog",
+    "Details": "Everyone's favourite hyperactive hedgehog!",
+    "pic":"./images/platforms/sonic.png",
+    "vid":"https://www.youtube.com/watch?v=TP4UXvIZdBo"
   },
   {  
     "tag": "9",
@@ -137,6 +137,13 @@ db.games.insert([{
     "hardwareSpec": "1.78mhz",
     "unitSales": 3700000,
     "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
+  },
+  {
+    "tag": "9.1",
+    "name": "",
+    "Details": "Another arcade regular makes its way into the home.",
+    "pic":"./images/platforms/asteroids.png",
+    "vid":"hhttps://www.youtube.com/watch?v=cZfsnA7dAHI"
   },
   {
     "tag": "10",
