@@ -5,7 +5,7 @@ var Game = function(options) {
   this.img = options.img;
   this.hardwareSpec = options.hardwareSpec;
   this.unitSales = options.unitSales;
-  this.copy = options.copy;
+  this.desc = options.desc;
 }
 
 module.exports = Game;
