@@ -23,7 +23,7 @@ db.games.insert([{
     "tag": "3",
     "console": "Atari 2600",
     "year": "1977",
-    "img": "",
+    "img": "./images/platforms/atari2600.png",
     "hardwareSpec": "CPU: 1.19mhz, 128bytes RAM",
     "unitSales": 30000000,
     "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!"
