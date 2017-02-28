@@ -190,4 +190,13 @@ db.games.insert([{
     "hardwareSpec": "729MHz",
     "unitSales": 101630000,
     "desc":"After the underperforming N64 and GameCube, expectations for the Wii were low. But then at the 2005 Tokyo Game Show, Nintendo revealed the machine’s innovative motion controller, the Wii Remote, providing a new kind of intuitive physical interaction. Designers Ken’ichiro Ashida and Shigeru Miyamoto were inspired by mobile phones and remote control devices, and the team spent two years getting the wireless technology just right. The main aim with the Wii, they claimed, was to make a console that mums would play. It sold 100m units."
+  },
+  {
+    "tag": "21",
+    "console": "XboxOne",
+    "year": "2013",
+    "img": "./images/platforms/xbone.png",
+    "hardwareSpec": "3.2GHz",
+    "unitSales": 4000000,
+    "desc":" Announced in May 2013, this is the successor to the Xbox 360 and the third console in the Xbox family, and was released in North America, Europe (in some countries), Australia, and Brazil in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an 'all-in-one entertainment system' The Xbox One mainly competes against consoles such as Sonys PlayStation 4 and Nintendo's Wii U as part of the eighth generation of video game consoles."
   }])
