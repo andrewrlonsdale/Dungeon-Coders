@@ -231,18 +231,21 @@ db.games.insert([{
   },
   {  
     "tag": "13",
-    "console": "Sony PlayStation",
+    "name": "Sony PlayStation",
     "year": "1994",
     "img": "./images/platforms/PS.png",
-    "hardwareSpec": "R3000 @ 33.86mhz, 2MB RAM",
+    "details": "R3000 @ 33.86mhz, 2MB RAM",
     "unitSales": 103000000,
     "desc":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
   },
   {
     "tag": "13.1",
     "name": "Wipeout",
+    "year": "1994",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
-    "pic":"./images/platforms/wipeout.png",
+    "pic":"./images/games/wipeout.png",
     "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
   },
   {  
