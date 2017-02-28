@@ -61,8 +61,8 @@ UI.prototype = {
       var p5 = document.createElement('p');
       var p6 = document.createElement('p');
 
-      p.innerText= game.HardwareSpec;
-      p2.innerText= game.UnitSales;
+      p.innerText= game.hardwareSpec;
+      p2.innerText= game.unitSales;
       p3.innerText= game.desc;
 
       p.setAttribute("id", game.tag);
