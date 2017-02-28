@@ -75,12 +75,22 @@ db.games.insert([
 
     {
       "tag": "8",
-      "console": "ZX Spectrum 48k",
-      "year": "1982",
-      "img": "https://i.guim.co.uk/img/media/27a58dda16c71b994028141943fcee4cffafc7e9/0_16_3000_1799/master/3000.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=4d668bb75a993bb4abe2288f77c10988",
-      "hardwareSpec": "Z80 @ 3.5Hz, 16kB/48kB/128kB memory",
-      "unitSales": "5,000,000",
-      "copy":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia."
+      "console": "Commodore Amiga 500",
+      "year": "1987",
+      "img": "https://i.guim.co.uk/img/media/9f9067cac3d402dbef55a9e1ffb88b59be86cd2c/0_189_3920_2352/master/3920.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=bc31a77cab74860146ca302c5ba89505",
+      "hardwareSpec": "Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM",
+      "unitSales": "4,850,000",
+      "copy":"In the early 80s, Atari employee Jay Miner began working on an ambitious computer design, codenamed Lorraine, eventually setting up a new company, Amiga Inc, to explore the idea. Running a Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM, it was monstrously powerful, and Commodore spotted its potential, buying out the IP. The Amiga went on to became a games behemoth, boasting titles like Lemmings, Cannon Fodder and Monkey Island as well as supporting the famed demo scene, where hardcore indie coders pushed the tech to its limits."
+    },
+
+    {
+      "tag": "9",
+      "console": "Xbox 360",
+      "year": "2005",
+      "img": "https://i.guim.co.uk/img/media/77c90bafd57b5dc445320218f71be7a417a584d1/0_0_1610_1988/master/1610.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=5461c653afb467e1119ec3708ddb18ac",
+      "hardwareSpec": "Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM",
+      "unitSales": "80,000,000",
+      "copy":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units."
     },
 
     ])
