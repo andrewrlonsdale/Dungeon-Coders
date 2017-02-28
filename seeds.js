@@ -59,6 +59,13 @@ db.games.insert([{
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
   },
   {
+    "tag": "4.1",
+    "name": "Space Wars",
+    "Details": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
+    "pic":"./images/platforms/spacewars.png",
+    "vid":"https://www.youtube.com/watch?v=w2mb-ENbxxg"
+  },
+  {
     "tag": "5",
     "console": "ZX Spectrum 48k",
     "year": "1982",
