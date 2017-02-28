@@ -294,10 +294,8 @@ h3{
 
 img {
   display: flex;
-  padding-left: 100px;
-  white-space:nowrap;
-  margin: 0px;
-  padding: 0px;
+  white-space: nowrap;
+  margin-top: 530px;
   height: 100px;
   width: 100px;
 }
