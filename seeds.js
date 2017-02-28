@@ -176,7 +176,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "16",
+      "tag": "18",
       "console": "Nintendo GameCube",
       "year": "2001",
       "img": "https://en.wikipedia.org/wiki/GameCube#/media/File:GameCube-Console-Set.png",
@@ -187,7 +187,7 @@ db.games.insert([
 
 
     {
-      "tag": "18",
+      "tag": "19",
       "console": "Xbox 360",
       "year": "2005",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -197,7 +197,7 @@ db.games.insert([
     },
 
     {
-      "tag": "19",
+      "tag": "20",
       "console": "Nintendo Wii",
       "year": "2006",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
