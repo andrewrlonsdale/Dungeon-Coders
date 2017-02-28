@@ -27,12 +27,7 @@ UI.prototype = {
     var container = document.querySelector('#games');
     games.forEach(function(game){
 
-      var h3 = document.createElement('h3');
-      h3.setAttribute("value", game.tag);
-      h3.innerText= game.year;
-      container.appendChild(h3);
-
-      var container5 = document.querySelector('#games');
+      var li = document.createElement('li');
       var image = document.createElement('img');
       image.setAttribute("value", game.tag);
       image.src = game.img;  
