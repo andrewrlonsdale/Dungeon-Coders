@@ -1,0 +1,248 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);       
+body {
+  margin: 0;
+  height: 100vh;
+  width: 100vw;
+  background: #00133E;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(/04b_30/04B_30__.TTF);
+}       
+
+button {
+    display: inline-block;
+/*    height: 134px;
+*/    padding: 0;
+    margin: 0;
+    vertical-align: top;
+/*    width: 104px;
+*/}
+
+#navlist li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 115px;
+  font-family: myFirstFont;
+  font-size: 30px;
+  color: yellow;
+  margin: 200px, 200px, 200px, 200px;
+
+}
+
+#games {
+
+  display: flex;
+  color: yellow;
+  font-size: 30px;
+  font-family: myFirstFont;
+  margin: 200px, 200px, 200px, 200px;
+
+}
+
+li {
+  list-style-type: none;
+  padding-right: 215px;
+  margin-bottom: : 200px;
+  margin: 200px, 200px, 200px, 200px;
+
+}
+
+
+/*-------------------------------------------*/
+                /*2d map*/
+
+#explain {
+  position:absolute;
+  left:10px;
+  top:0;
+  font-family:"Open Sans",Arial,sans-serif;
+  font-size:3em;
+}
+
+#plax {
+  margin: 0;
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  perspective: 150px;
+  perspective: 150px;
+  perspective-origin: center;
+  perspective-origin: center;
+  transition: 2s;
+  transition: 2s;
+}
+
+.plax-grp {
+  transform-style: preserve-3d;
+  display: inline-block;
+  float: left;
+  width: 500vw;
+}
+
+.tree-one {
+ background: url(http://i.imgur.com/osIQCLS.png);
+ width: 201px;
+ height: 209px;
+}
+
+.tree-two {
+ background: url(http://i.imgur.com/joUrlbZ.png);
+ width: 226px;
+ height: 409px;
+}
+         .stone-one {
+           background: url(http://i.imgur.com/YLQt8Nl.png) bottom no-repeat;
+           width: 166px;
+           height: 67px;
+           background-size: 40%;
+         }
+         
+         .stone-two {
+           background: url(http://i.imgur.com/yVZHAEC.png) bottom no-repeat;
+           width: 166px;
+           height: 55px;
+           background-size: 40%;
+         }
+         
+
+         .tree,
+         .cloud {
+           position: absolute;
+           bottom: -15px;
+           transform-origin: bottom;
+           transform-origin: bottom;
+           background-repeat: no-repeat;
+           z-index: -1;
+         }
+         
+         .cloud {
+           top: 0vh;
+           margin-top: -100vh;
+         }
+         
+         .cloud-one {
+           background-image: url(http://i.imgur.com/4Oq6gmR.png);
+           width: 322px;
+           height: 245px;
+         }
+         
+         .cloud-two {
+           background-image: url(http://i.imgur.com/a3qDe8d.png);
+           width: 335px;
+           height: 101px;
+         }
+         
+         .cloud-three {
+           background-image: url(http://i.imgur.com/kmzLESi.png);
+           width: 374px;
+           height: 201px;
+         }
+         
+         .cloud-four {
+           background-image: url(http://i.imgur.com/ZKXcWbM.png);
+           width: 318px;
+           height: 201px;
+         }
+         
+         .cloud-five {
+           background-image: url(http://i.imgur.com/zc6z0Tq.png);
+           width: 374px;
+           height: 302px;
+         }
+         
+         .grnd {
+           display: block;
+           position: absolute;
+           left: -80%;
+           width: 260%;
+           height: 100vh;
+           bottom: 0;
+           background: #4E533C;
+           transform-origin: bottom;
+           transform: rotateX(90deg); 
+         }
+         
+         #forest {
+           display: inline-block;
+           position: relative;
+           width: 500vw;
+           height: 100vh;
+         }
+/*-------------------------------------------*/
+                /*modal box*/
+
+              /* The Modal (background) */
+
+              .modal {
+                  display: none; /* Hidden by default */
+                  position: fixed; /* Stay in place */
+                  z-index: 1; /* Sit on top */
+                  padding-top: 100px; /* Location of the box */
+                  left: 0;
+                  top: 0;
+                  width: 100%; /* Full width */
+                  height: 100%; /* Full height */
+                  overflow: auto; /* Enable scroll if needed */
+                  background-color: rgb(0,0,0); /* Fallback color */
+                  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+              }
+
+              /* Modal Content */
+              .modal-content {
+                  position: relative;
+                  background-color: #fefefe;
+                  margin: auto;
+                  padding: 0;
+                  border: 1px solid #888;
+                  width: 80%;
+                  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+                  -webkit-animation-name: animatetop;
+                  -webkit-animation-duration: 0.4s;
+                  animation-name: animatetop;
+                  animation-duration: 0.4s
+              }
+
+              /* Add Animation */
+              @-webkit-keyframes animatetop {
+                  from {top:-300px; opacity:0} 
+                  to {top:0; opacity:1}
+              }
+
+              @keyframes animatetop {
+                  from {top:-300px; opacity:0}
+                  to {top:0; opacity:1}
+              }
+
+              /* The Close Button */
+              .close {
+                  color: white;
+                  float: right;
+                  font-size: 28px;
+                  font-weight: bold;
+              }
+
+              .close:hover,
+              .close:focus {
+                  color: #000;
+                  text-decoration: none;
+                  cursor: pointer;
+              }
+
+              .modal-header {
+                  padding: 2px 16px;
+                  background-color: #5cb85c;
+                  color: white;
+              }
+
+              .modal-body {padding: 2px 16px;}
+
+              .modal-footer {
+                  padding: 2px 16px;
+                  background-color: #5cb85c;
+                  color: white;
+              }
