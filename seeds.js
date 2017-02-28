@@ -171,11 +171,11 @@ db.games.insert([{
     "desc":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
   },
   {
-    "tag": "10.1",
-    "name": "",
-    "Details": "",
-    "pic":"./images/platforms/anotherworld.png",
-    "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
+    "tag": "11.1",
+    "name": "Streets of Rage",
+    "Details": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
+    "pic":"./images/platforms/sor.png",
+    "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
   },
   {  
     "tag": "12",
