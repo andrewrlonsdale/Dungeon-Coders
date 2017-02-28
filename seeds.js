@@ -159,7 +159,7 @@ db.games.insert([{
     "tag": "18",
     "console": "Xbox 360",
     "year": "2005",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/xbox360.png",
     "hardwareSpec": "3.2GHz",
     "unitSales": 80000000,
     "desc":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units."
@@ -168,7 +168,7 @@ db.games.insert([{
     "tag": "19",
     "console": "Nintendo Wii",
     "year": "2006",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/wii.png",
     "hardwareSpec": "729MHz",
     "unitSales": 101630000,
     "desc":"After the underperforming N64 and GameCube, expectations for the Wii were low. But then at the 2005 Tokyo Game Show, Nintendo revealed the machine’s innovative motion controller, the Wii Remote, providing a new kind of intuitive physical interaction. Designers Ken’ichiro Ashida and Shigeru Miyamoto were inspired by mobile phones and remote control devices, and the team spent two years getting the wireless technology just right. The main aim with the Wii, they claimed, was to make a console that mums would play. It sold 100m units."
