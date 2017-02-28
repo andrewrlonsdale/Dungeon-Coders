@@ -22,18 +22,18 @@ db.games.insert([{
   },
   {
     "tag": "2",
-    "console": "Atari Sears Tele-Games Pong System",
+    "name": "Atari Sears Tele-Games Pong System",
     "year": "1975",
     "img": "./images/platforms/pong.png",
-    "hardwareSpec": "128k",
+    "details": "128k",
     "unitSales": 150000,
     "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home."
   },
   {
     "tag": "2.1",
-    "console": "Pong",
+    "name": "Pong",
     "year": "1975",
-    "hardwareSpec": "n/a",
+    "details": "n/a",
     "unitSales": "n/a",
     "Desc": "And here's the real thing... An arcade in your living room.",
     "img":"./images/games/pong.png",
@@ -41,7 +41,7 @@ db.games.insert([{
   },
   {  
     "tag": "3",
-    "console": "Atari 2600",
+    "name": "Atari 2600",
     "year": "1977",
     "img": "./images/platforms/atari2600.png",
     "hardwareSpec": "CPU: 1.19mhz, 128bytes RAM",
