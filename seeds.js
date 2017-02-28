@@ -86,7 +86,7 @@ db.games.insert([{
     "tag": "10",
     "console": "Commodore Amiga 500",
     "year": "1987",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/amiga500",
     "hardwareSpec": "Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM",
     "unitSales": 4850000,
     "desc":"In the early 80s, Atari employee Jay Miner began working on an ambitious computer design, codenamed Lorraine, eventually setting up a new company, Amiga Inc, to explore the idea. Running a Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM, it was monstrously powerful, and Commodore spotted its potential, buying out the IP. The Amiga went on to became a games behemoth, boasting titles like Lemmings, Cannon Fodder and Monkey Island as well as supporting the famed demo scene, where hardcore indie coders pushed the tech to its limits."
