@@ -165,8 +165,11 @@ db.games.insert([{
   {
     "tag": "9.1",
     "name": "Asteroids",
+    "year": "1986",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "Another arcade regular makes its way into the home.",
-    "pic":"./images/platforms/asteroids.png",
+    "img":"./images/games/asteroids.png",
     "vid":"https://www.youtube.com/watch?v=cZfsnA7dAHI"
   },
   {
