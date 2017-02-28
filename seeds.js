@@ -107,7 +107,7 @@ db.games.insert([{
   },
   {
     "tag": "6.1",
-    "name": "Super Mario Bros",
+    "console": "Super Mario Bros",
     "year": "1983",
     "hardwareSpec": "n/a",
     "unitSales": "n/a",
@@ -126,9 +126,12 @@ db.games.insert([{
   },
   {
     "tag": "7.1",
-    "name": "Wonder Boy",
+    "console": "Wonder Boy",
+    "year": "1984",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
-    "pic":"./images/platforms/wonderboy.png",
+    "img":"./images/games/wonderboy.png",
     "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
   },
   {  
@@ -142,9 +145,12 @@ db.games.insert([{
   },
   {
     "tag": "8.1",
-    "name": "Sonic The Hedgehog",
+    "console": "Sonic The Hedgehog",
+    "year": "1985",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "Everyone's favourite hyperactive hedgehog!",
-    "pic":"./images/platforms/sonic.png",
+    "img":"./images/games/sonic.png",
     "vid":"https://www.youtube.com/watch?v=TP4UXvIZdBo"
   },
   {  
