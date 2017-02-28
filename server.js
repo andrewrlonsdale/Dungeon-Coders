@@ -8,6 +8,7 @@ app.use(bodyParser.urlencoded({extend: true}));
 app.use(require('./controllers'));
 
 app.use(express.static('./client/build'));
+app.use(express.static('./client/public'));
 
 app.listen(3000, function(){
   console.log("App is listening on " + this.address().port);
