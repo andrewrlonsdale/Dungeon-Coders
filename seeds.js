@@ -53,7 +53,7 @@ db.games.insert([
       "desc":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia.",
     },
 
-  { 
+    { 
       "tag": "6",
       "console": "Nintendo Entertainment System (NES)",
       "year": "1983",
@@ -174,6 +174,17 @@ db.games.insert([
       "unitSales": 155000000,
       "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day."
     },
+
+    {  
+      "tag": "16",
+      "console": "Nintendo GameCube",
+      "year": "2001",
+      "img": "https://en.wikipedia.org/wiki/GameCube#/media/File:GameCube-Console-Set.png",
+      "hardwareSpec": "162mhz",
+      "unitSales": 22000000,
+      "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered byt its fans."
+    },
+
 
     {
       "tag": "18",
