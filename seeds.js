@@ -11,6 +11,11 @@ db.games.insert([{
     "desc":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong."
   },
   {
+    "tag": "1.1",
+    "name": "Test Game",
+    "Details": "Some stuff"
+  },
+  {
     "tag": "2",
     "console": "Atari Sears Tele-Games Pong System",
     "year": "1975",
