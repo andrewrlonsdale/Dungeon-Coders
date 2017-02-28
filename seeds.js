@@ -193,7 +193,7 @@ db.games.insert([{
   },
   {  
     "tag": "11",
-    "console": "Sega Mega-Drive (US: Genesis)",
+    "name": "Sega Mega-Drive (US: Genesis)",
     "year": "1988",
     "img": "./images/platforms/megadrive.png",
     "hardwareSpec": "7.6mhz",
