@@ -5,7 +5,7 @@ db.games.insert([{
     "tag": "1",
     "console": "Magnavox Odyssey",
     "year": "1972",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/magnavox_odessy.jpg",
     "hardwareSpec": "40 transistors and 40 diodes",
     "unitSales": "350,000",
     "desc":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong."
@@ -14,7 +14,7 @@ db.games.insert([{
     "tag": "2",
     "console": "Atari Sears Tele-Games Pong System",
     "year": "1975",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/pong.png",
     "hardwareSpec": "128k",
     "unitSales": 150000,
     "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home."
@@ -23,7 +23,7 @@ db.games.insert([{
     "tag": "3",
     "console": "Atari 2600",
     "year": "1977",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "",
     "hardwareSpec": "CPU: 1.19mhz, 128bytes RAM",
     "unitSales": 30000000,
     "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!"
@@ -162,7 +162,7 @@ db.games.insert([{
     "img": "https://en.wikipedia.org/wiki/GameCube#/media/File:GameCube-Console-Set.png",
     "hardwareSpec": "162mhz",
     "unitSales": 22000000,
-    "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered byt its fans."
+    "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans."
   },
   {
     "tag": "19",
