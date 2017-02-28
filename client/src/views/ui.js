@@ -29,9 +29,14 @@ UI.prototype = {
 
       var li = document.createElement('li');
       var image = document.createElement('img');
+      li.setAttribute("value", game.tag);
       image.setAttribute("value", game.tag);
+
+      this.appendText(li, game.year, "");
+
       image.src = game.img;  
-      container5.appendChild(image);
+      li.appendChild(image);
+      container.appendChild(li);
 
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
