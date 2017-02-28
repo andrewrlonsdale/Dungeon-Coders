@@ -69,9 +69,12 @@ db.games.insert([{
   },
   {
     "tag": "4.1",
-    "name": "Space Wars",
+    "console": "Space Wars",
+    "year": "1982",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
-    "pic":"./images/platforms/spacewars.png",
+    "pic":"./images/games/spacewars.png",
     "vid":"https://www.youtube.com/watch?v=w2mb-ENbxxg"
   },
   {
@@ -85,9 +88,12 @@ db.games.insert([{
   },
   {
     "tag": "5.1",
-    "name": "Elite",
+    "console": "Elite",
+    "year": "1982",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "Elite was something of a groundbreaker.  It featured a fully explorable procedurally generated universe for gamers to get lost in.  Think 'No Man's Sky' without all the hype and disappointment.",
-    "pic":"./images/platforms/elite.png",
+    "pic":"./images/games/elite.png",
     "vid":"https://www.youtube.com/watch?v=batwiJmqZoE"
   },
   { 
@@ -102,8 +108,11 @@ db.games.insert([{
   {
     "tag": "6.1",
     "name": "Super Mario Bros",
+    "year": "1983",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "*The* video game, basically.  Defined the platform genre, and has been the cornerstone of the Nintendo stable for a quarter century.  Mario is the daddy.",
-    "pic":"./images/platforms/mario.png",
+    "img":"./images/games/mario.png",
     "vid":"https://www.youtube.com/watch?v=Aw4JccvxU-s"
   },
   {  
