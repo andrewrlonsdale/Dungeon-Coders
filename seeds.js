@@ -3,19 +3,19 @@ use the_dungeon;
 db.games.drop();
 db.games.insert([{
     "tag": "1",
-    "console": "Magnavox Odyssey",
+    "name": "Magnavox Odyssey",
     "year": "1972",
     "img": "./images/platforms/magnavox_odessey.jpg",
-    "hardwareSpec": "40 transistors and 40 diodes",
+    "details": "40 transistors and 40 diodes",
     "unitSales": "350,000",
     "desc":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong."
   },
   {
     "tag": "1.1",
-    "console": "Table Tennis",
+    "name": "Table Tennis",
     "year": "1972",
-    "hardwareSpec": "n/a",
-    "unitSales": "n/a",
+    "details": "Sports",
+    "unitSales": "4 Million",
     "desc": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
     "img":"./images/games/magnavox_tennis.png",
     "vid":"https://www.youtube.com/watch?v=bfmL6l128JU"
