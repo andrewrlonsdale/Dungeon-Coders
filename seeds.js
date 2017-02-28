@@ -141,7 +141,7 @@ db.games.insert([{
     "tag": "16",
     "console": "Sega Dreamcast",
     "year": "1998",
-    "img": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/1280px-Dreamcast-Console-Set.png",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/1280px-Dreamcast-Console-Set.png",
     "hardwareSpec": "200mhz",
     "unitSales": 9130000,
     "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play."
