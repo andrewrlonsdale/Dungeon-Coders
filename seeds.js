@@ -184,8 +184,11 @@ db.games.insert([{
   {
     "tag": "10.1",
     "name": "Another World",
-    "Details": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
-    "pic":"./images/platforms/anotherworld.png",
+    "year": "1987",
+    "details": "n/a",
+    "unitSales": "n/a",
+    "desc": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
+    "pic":"./images/games/anotherworld.png",
     "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
   },
   {  
