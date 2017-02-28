@@ -7,6 +7,8 @@ var UI = function(){
   gameDataRequester.all(function(results){
     this.render(results);
   }.bind(this));
+  treeHandler.cloudTrees('tree', 'forest', 400, 0, -450);
+  treeHandler.cloudTrees('cloud', 'forest', 50, -500, -1000);
 }
 
 UI.prototype = {
