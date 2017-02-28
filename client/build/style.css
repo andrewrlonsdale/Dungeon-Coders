@@ -98,51 +98,6 @@ li {
  width: 226px;
  height: 409px;
 }
-
-        /*  .tree-three {
-           background: url(http://i.imgur.com/zVf8bEK.png);
-           width: 325px;
-           height: 536px;
-           } */
-
-         /* .tree-four {
-           background: url(http://i.imgur.com/SvJ4ieV.png);
-           width: 325px;
-           height: 436px;
-         }
-         
-         .tree-pine {
-           background: url(http://i.imgur.com/VS1u1XB.png);
-           width: 118px;
-           height: 229px;
-           } */
-
-         /*.char-one {
-           background: url(../images/Banjo-Kazooie.png);
-           width: 201px;
-           height: 209px;
-         }
-         
-         .char-two {
-           background: url(../images/Mario8bit.png);
-           width: 226px;
-           height: 409px;
-         }
-         
-         .char-three {
-           background: url(../images/goomba_8_bit__pixel_art_by_grifuz-d45pmyd.png);
-           width: 325px;
-           height: 536px;
-         }
-         
-         .char-four {
-           background: url(/images/pokemon_yellow_character_and_pikachu_sprites_by_eri_tchi-d4moyx2%20%281%29.png);
-           width: 325px;
-           height: 436px;
-         }
-         */
-         
-         
          .stone-one {
            background: url(http://i.imgur.com/YLQt8Nl.png) bottom no-repeat;
            width: 166px;
@@ -226,12 +181,7 @@ li {
 
               /* The Modal (background) */
 
-/*
-              p {
-                display: none;*/
-
-/*              }
-*/              .modal {
+              .modal {
                   display: none; /* Hidden by default */
                   position: fixed; /* Stay in place */
                   z-index: 1; /* Sit on top */
