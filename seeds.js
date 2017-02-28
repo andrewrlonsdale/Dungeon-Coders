@@ -44,18 +44,18 @@ db.games.insert([{
     "name": "Atari 2600",
     "year": "1977",
     "img": "./images/platforms/atari2600.png",
-    "hardwareSpec": "CPU: 1.19mhz, 128bytes RAM",
+    "details": "CPU: 1.19mhz, 128bytes RAM",
     "unitSales": 30000000,
     "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!"
   },
   {
     "tag": "3.1",
-    "console": "Pacman",
+    "name": "Pacman",
     "year": "1977",
-    "hardwareSpec": "n/a",
+    "details": "n/a",
     "unitSales": "n/a",
     "Details": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
-    "pic":"./images/games/pacman.png",
+    "img":"./images/games/pacman.png",
     "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
   },
   {  
