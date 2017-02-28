@@ -32,7 +32,7 @@ db.games.insert([{
     "tag": "4",
     "console": "Vectrex",
     "year": "1982",
-    "img": "http://i972.photobucket.com/albums/ae206/alejandro_madera/Vectrex/DSCF3576.jpg",
+    "img": "./images/platforms/vectrex.png",
     "hardwareSpec": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
@@ -41,7 +41,7 @@ db.games.insert([{
     "tag": "5",
     "console": "ZX Spectrum 48k",
     "year": "1982",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/zx_spectrum.jpg",
     "hardwareSpec": "3.5mhz",
     "unitSales": 5000000,
     "desc":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia."
@@ -50,7 +50,7 @@ db.games.insert([{
     "tag": "6",
     "console": "Nintendo Entertainment System (NES)",
     "year": "1983",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/nintendo_entertainment_system.jpg",
     "hardwareSpec": "2A03 8-bit processor",
     "unitSales": 62000000,
     "desc":"The Daddy. The era changer.  This little beige box sat under millions of TV sets, spawning a generation of hardcore gamers.  Seminal games like 'Jumpman' (You may know him better as Mario), and Donkey Kong, and peripheral hardware like the 'zapper' light gun (Duck Hunt, anyone?) made the NES a stellar commercial success and cemented Nintendo's place at the top of the industry for years to come."
