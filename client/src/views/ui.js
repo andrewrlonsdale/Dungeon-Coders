@@ -60,7 +60,7 @@ UI.prototype = {
       this.appendText(p, game.console, "");
       this.appendText(p, game.HardwareSpec, "");
       this.appendText(p, game.UnitSales, "");
-      this.appendText(p, game.copy, "");
+      this.appendText(p, game.desc, "");
 
       container4.appendChild(p);
 
