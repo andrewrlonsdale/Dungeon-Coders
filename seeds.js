@@ -250,34 +250,40 @@ db.games.insert([{
   },
   {  
     "tag": "14",
-    "console": "Nintendo 64",
+    "name": "Nintendo 64",
     "year": "1996",
     "img": "./images/platforms/N64.png",
-    "hardwareSpec": "93.59mhz",
+    "details": "93.59mhz",
     "unitSales": 33000000,
     "desc":"What a way to end the cartridge era. Launched with the games Super Mario 64 and Pilotwings 64, the N64 was a runaway sucess and remains the 9th highest selling console of all time. It did not have the largest selection of games, but boy, what games.  Mario 64 and Zelda: Ocarina Of Time are still regarded as among the best games ever made, and GoldenEye 007 was a seminal title in the shooter genre. ed. - One of these glorious machines still has pride of place beneath my TV, 20 years on!"
   },
   {
     "tag": "14.1",
     "name": "Goldeneye 007",
-    "Details": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
-    "pic":"./images/platforms/goldeneye.png",
+    "year": "1996",
+    "details": "n/a",
+    "unitSales": "n/a",
+    "desc": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
+    "pic":"./images/games/goldeneye.png",
     "vid":"https://www.youtube.com/watch?v=Bj1z7F5BkyM"
   },
   {  
     "tag": "15",
-    "console": "Sega Dreamcast",
+    "name": "Sega Dreamcast",
     "year": "1998",
     "img": "./images/platforms/dreamcast.png",
-    "hardwareSpec": "200mhz",
+    "details": "200mhz",
     "unitSales": 9130000,
     "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play."
   },
   {
     "tag": "15.1",
     "name": "Crazy Taxi",
-    "Details": "An irreverent driving sim.  Great fun!",
-    "pic":"./images/platforms/crazytaxi.png",
+    "year": "1998",
+    "details": "n/a",
+    "unitSales": "n/a",
+    "desc": "An irreverent driving sim.  Great fun!",
+    "pic":"./images/games/crazytaxi.png",
     "vid":"https://www.youtube.com/watch?v=YhsE6qdQr1g"
   },
   {
