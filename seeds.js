@@ -254,4 +254,14 @@ db.games.insert([
       "copy":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
     },
 
+    {  
+      "tag": "10",
+      "console": "Atari Jaguar",
+      "year": "1994",
+      "img": "https://en.wikipedia.org/wiki/Atari_Jaguar#/media/File:Atari-Jaguar-Console-Set.jpg",
+      "hardwareSpec": "26.59mhz",
+      "unitSales": 250000,
+      "copy":"The guys at Atari may have overstreched themselves with the Jaguar.  Marketed as the first '64-bit' console while competing with the wildly popular 16-bit machines from Nintendo and Sega, the Jaguar utilised a multi chip architecture that, while capable of rendering excellent graphics and framerates, was very difficult for developers to work with, resulting in a slightly bare library of games.  This was sadly where Atari bowed out of the 'premier league' of consoles."
+    },
+
     ])
