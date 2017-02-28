@@ -264,4 +264,14 @@ db.games.insert([
       "copy":"The guys at Atari may have overstreched themselves with the Jaguar.  Marketed as the first '64-bit' console while competing with the wildly popular 16-bit machines from Nintendo and Sega, the Jaguar utilised a multi chip architecture that, while capable of rendering excellent graphics and framerates, was very difficult for developers to work with, resulting in a slightly bare library of games.  This was sadly where Atari bowed out of the 'premier league' of consoles."
     },
 
+    {  
+      "tag": "11",
+      "console": "Nintendo 64",
+      "year": "1996",
+      "img": "https://en.wikipedia.org/wiki/Nintendo_64#/media/File:Nintendo-64-wController-L.jpg",
+      "hardwareSpec": "93.59mhz",
+      "unitSales": 33000000,
+      "copy":"What a way to end the cartridge era. Launched with the games Super Mario 64 and Pilotwings 64, the N64 was a runaway sucess and remains the 9th highest selling console of all time. It did not have the largest selection of games, but boy, what games.  Mario 64 and Zelda: Ocarina Of Time are still regarded as among the best games ever made, and GoldenEye 007 was a seminal title in the shooter genre. (ed - One of these glorious machines still has pride of place beneath my TV 20 years on!) "
+    },
+
     ])
