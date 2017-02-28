@@ -74,6 +74,13 @@ db.games.insert([{
     "unitSales": 5000000,
     "desc":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia."
   },
+  {
+    "tag": "5.1",
+    "name": "Elite",
+    "Details": "Elite was something of a groundbreaker.  It featured a fully explorable procedurally generated universe for gamers to get lost in.  Think 'No Man's Sky' without all the hype and disappointment.",
+    "pic":"./images/platforms/elite.png",
+    "vid":"https://www.youtube.com/watch?v=batwiJmqZoE"
+  },
   { 
     "tag": "6",
     "console": "Nintendo Entertainment System (NES)",
@@ -82,6 +89,13 @@ db.games.insert([{
     "hardwareSpec": "2A03 8-bit processor",
     "unitSales": 62000000,
     "desc":"The Daddy. The era changer.  This little beige box sat under millions of TV sets, spawning a generation of hardcore gamers.  Seminal games like 'Jumpman' (You may know him better as Mario), and Donkey Kong, and peripheral hardware like the 'zapper' light gun (Duck Hunt, anyone?) made the NES a stellar commercial success and cemented Nintendo's place at the top of the industry for years to come."
+  },
+  {
+    "tag": "6.1",
+    "name": "Super Mario Bros",
+    "Details": "*The* video game, basically.  Defined the platform genre, and has been the cornerstone of the Nintendo stable for a quarter century.  Mario is the daddy.",
+    "pic":"./images/platforms/mario.png",
+    "vid":"https://www.youtube.com/watch?v=Aw4JccvxU-s"
   },
   {  
     "tag": "8",
