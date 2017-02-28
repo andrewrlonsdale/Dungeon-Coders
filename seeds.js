@@ -251,6 +251,13 @@ db.games.insert([{
     "unitSales": 155000000,
     "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day."
   },
+  {
+    "tag": "16.1",
+    "name": "Grand Theft Auto: San Andreas",
+    "Details": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
+    "pic":"./images/platforms/gtasa.png",
+    "vid":"https://www.youtube.com/watch?v=u_CbHrBbHNQ"
+  },
   {  
     "tag": "17",
     "console": "Nintendo GameCube",
