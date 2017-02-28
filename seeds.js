@@ -208,4 +208,13 @@ db.games.insert([{
     "hardwareSpec": "729MHz",
     "unitSales": 101630000,
     "desc":"In late 2013 the world was treated to the release of the next generation in gaming consoles. The two main contenders of the console wars were, of course, Sony’s PlayStation 4 and Microsoft’s Xbox One. Sony’s PlayStation 4 has many new and advanced characteristics, as well as being packed to the brim with cutting-edge technology."
-  }])
+  },
+  {
+    "tag": "23",
+    "console": "Nintendo Switch",
+    "year": "2017",
+    "img": "./images/platforms/nintendoswitch.png",
+    "hardwareSpec": "3.2GHz",
+    "unitSales": "In progress!",
+    "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath."
+}])
