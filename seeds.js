@@ -196,15 +196,18 @@ db.games.insert([{
     "name": "Sega Mega-Drive (US: Genesis)",
     "year": "1988",
     "img": "./images/platforms/megadrive.png",
-    "hardwareSpec": "7.6mhz",
+    "details": "7.6mhz",
     "unitSales": 30000000,
     "desc":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
   },
   {
     "tag": "11.1",
     "name": "Streets of Rage",
+    "year": "1988",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
-    "pic":"./images/platforms/sor.png",
+    "pic":"./images/games/sor.png",
     "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
   },
   {  
