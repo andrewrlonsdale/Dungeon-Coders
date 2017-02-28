@@ -130,7 +130,7 @@ db.games.insert([{
     "year": "1984",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
+    "desc": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
     "img":"./images/games/wonderboy.png",
     "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
   },
