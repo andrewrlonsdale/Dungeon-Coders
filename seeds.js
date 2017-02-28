@@ -26,6 +26,13 @@ db.games.insert([{
     "unitSales": 150000,
     "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home."
   },
+  {
+    "tag": "2.1",
+    "name": "Pong",
+    "Details": "And here's the real thing... An arcade in your living room.",
+    "pic":"./images/platforms/pong.png",
+    "vid":"https://www.youtube.com/watch?v=it0sf4CMDeM"
+  },
   {  
     "tag": "3",
     "console": "Atari 2600",
