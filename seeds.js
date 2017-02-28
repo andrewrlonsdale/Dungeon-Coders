@@ -307,18 +307,21 @@ db.games.insert([{
   },
   {  
     "tag": "17",
-    "console": "Nintendo GameCube",
+    "name": "Nintendo GameCube",
     "year": "2001",
     "img": "./images/platforms/gamecube.png",
-    "hardwareSpec": "162mhz",
+    "details": "162mhz",
     "unitSales": 22000000,
     "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans."
   },
   {
     "tag": "17.1",
     "name": "Metroid Prime",
+    "year": "2001",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "A remake of the classic space adventure game.  Lauded by critics",
-    "pic":"./images/platforms/metroid.png",
+    "pic":"./images/games/metroid.png",
     "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
   },
   {
