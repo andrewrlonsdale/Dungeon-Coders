@@ -57,6 +57,9 @@ UI.prototype = {
       var p = document.createElement('p');
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
+      var p4 = document.createElement('p');
+      var p5 = document.createElement('p');
+      var p6 = document.createElement('p');
 
       p.innerText= game.HardwareSpec;
       p2.innerText= game.UnitSales;
