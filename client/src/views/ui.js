@@ -77,9 +77,13 @@ UI.prototype = {
       p5.setAttribute("class", "_" + game.tag);
       p6.setAttribute("class", "_" + game.tag);
       
+      container4.appendChild(p4);
       container4.appendChild(p);
+      container4.appendChild(p5);
       container4.appendChild(p2);
+      container4.appendChild(p6);
       container4.appendChild(p3);
+
 
       
 
