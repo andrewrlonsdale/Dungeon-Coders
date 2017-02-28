@@ -136,20 +136,20 @@ db.games.insert([{
   },
   {  
     "tag": "8",
-    "console": "Sega Master System",
+    "name": "Sega Master System",
     "year": "1985",
     "img": "./images/platforms/master_system.png",
-    "hardwareSpec": "4mhz, 8kb RAM",
+    "details": "4mhz, 8kb RAM",
     "unitSales": 13000000,
     "desc":"Every generation has their schisms.  Were you a mod or a rocker? Punk or Prog? Blur or Oasis? For folks of a certain age, the big question was 'Sega or Nintendo??'.  The Master System by Sega was a big rival to the NES, offering an edgier stable of games to counter Nintendo's slightly more cutesy image.  Units moved from stores as quickly as Sonic the Hedgehog's trainers."
   },
   {
     "tag": "8.1",
-    "console": "Sonic The Hedgehog",
+    "name": "Sonic The Hedgehog",
     "year": "1985",
-    "hardwareSpec": "n/a",
+    "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Everyone's favourite hyperactive hedgehog!",
+    "desc": "Everyone's favourite hyperactive hedgehog!",
     "img":"./images/games/sonic.png",
     "vid":"https://www.youtube.com/watch?v=TP4UXvIZdBo"
   },
