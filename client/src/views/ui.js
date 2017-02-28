@@ -57,24 +57,33 @@ UI.prototype = {
       var p = document.createElement('p');
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
+      var p4 = document.createElement('p');
+      var p5 = document.createElement('p');
+      var p6 = document.createElement('p');
 
-      p.innerText= game.HardwareSpec;
-      p2.innerText= game.UnitSales;
+      p.innerText= game.hardwareSpec;
+      p2.innerText= game.unitSales;
       p3.innerText= game.desc;
 
-      p.setAttribute("id", game.tag);
-      this.appendText(p, game.console, "");
-      this.appendText(p, game.HardwareSpec, "");
-      this.appendText(p, game.UnitSales, "");
-      this.appendText(p, game.desc, "");
+      p4.innerText= "Specifications :";
+      p5.innerText= "Sales:";
+      p6.innerText= "Description:";
 
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
       p3.setAttribute("class", "_" + game.tag);
+
+      p4.setAttribute("class", "_" + game.tag);
+      p5.setAttribute("class", "_" + game.tag);
+      p6.setAttribute("class", "_" + game.tag);
       
+      container4.appendChild(p4);
       container4.appendChild(p);
+      container4.appendChild(p5);
       container4.appendChild(p2);
+      container4.appendChild(p6);
       container4.appendChild(p3);
+
 
       
 
