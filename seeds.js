@@ -95,7 +95,7 @@ db.games.insert([{
     "tag": "11",
     "console": "Sega Mega-Drive (US: Genesis)",
     "year": "1988",
-    "img": "https://en.wikipedia.org/wiki/Sega_Genesis#/media/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
+    "img": "./images/platforms/megadrive.png",
     "hardwareSpec": "7.6mhz",
     "unitSales": 30000000,
     "desc":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
@@ -104,7 +104,7 @@ db.games.insert([{
     "tag": "12",
     "console": "Atari Jaguar",
     "year": "1994",
-    "img": "https://en.wikipedia.org/wiki/Atari_Jaguar#/media/File:Atari-Jaguar-Console-Set.jpg",
+    "img": "./images/platforms/jaguar.png",
     "hardwareSpec": "26.59mhz",
     "unitSales": 250000,
     "desc":"The guys at Atari may have overstreched themselves with the Jaguar.  Marketed as the first '64-bit' console while competing with the wildly popular 16-bit machines from Nintendo and Sega, the Jaguar utilised a multi chip architecture that, while capable of rendering excellent graphics and framerates, was very difficult for developers to work with, resulting in a slightly bare library of games.  This was sadly where Atari bowed out of the 'premier league' of consoles."
@@ -113,7 +113,7 @@ db.games.insert([{
     "tag": "13",
     "console": "Sony PlayStation",
     "year": "1994",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/PS.png",
     "hardwareSpec": "R3000 @ 33.86mhz, 2MB RAM",
     "unitSales": 103000000,
     "desc":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
@@ -123,7 +123,7 @@ db.games.insert([{
     "console": "Nintendo 64",
     "year": "1996",
     "img": "lksdjf",
-    "img": "https://en.wikipedia.org/wiki/Nintendo_64#/media/File:Nintendo-64-wController-L.jpg",
+    "img": "./images/platforms/N64.png",
     "hardwareSpec": "93.59mhz",
     "unitSales": 33000000,
     "desc":"What a way to end the cartridge era. Launched with the games Super Mario 64 and Pilotwings 64, the N64 was a runaway sucess and remains the 9th highest selling console of all time. It did not have the largest selection of games, but boy, what games.  Mario 64 and Zelda: Ocarina Of Time are still regarded as among the best games ever made, and GoldenEye 007 was a seminal title in the shooter genre. ed. - One of these glorious machines still has pride of place beneath my TV, 20 years on!"
@@ -132,7 +132,7 @@ db.games.insert([{
     "tag": "15",
     "console": "Sega Dreamcast",
     "year": "1998",
-    "img": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/1280px-Dreamcast-Console-Set.png",
+    "img": "./images/platforms/dreamcast.png",
     "hardwareSpec": "200mhz",
     "unitSales": 9130000,
     "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play."
@@ -141,7 +141,7 @@ db.games.insert([{
     "tag": "16",
     "console": "PlayStation 2",
     "year": "2000",
-    "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+    "img": "./images/platforms/PS2.png",
     "hardwareSpec": "3GHz",
     "unitSales": 155000000,
     "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day."
@@ -150,7 +150,7 @@ db.games.insert([{
     "tag": "17",
     "console": "Nintendo GameCube",
     "year": "2001",
-    "img": "https://en.wikipedia.org/wiki/GameCube#/media/File:GameCube-Console-Set.png",
+    "img": "./images/platforms/gamecube.png",
     "hardwareSpec": "162mhz",
     "unitSales": 22000000,
     "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans."
