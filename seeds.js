@@ -53,4 +53,34 @@ db.games.insert([
       "copy":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
     },
 
+    {
+      "tag": "6",
+      "console": "Magnavox Odyssey",
+      "year": "1972",
+      "img": "https://i.guim.co.uk/img/media/cc3ce27921fa9c87f9e6dfe87e1cc19f81c3bee6/0_0_3504_2103/master/3504.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=035d034d8428e2a99619dfd357d5a903",
+      "hardwareSpec": "40 transistors and 40 diodes",
+      "unitSales": "350,000",
+      "copy":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong."
+    },
+
+    {
+      "tag": "7",
+      "console": "ZX Spectrum 48k",
+      "year": "1982",
+      "img": "https://i.guim.co.uk/img/media/27a58dda16c71b994028141943fcee4cffafc7e9/0_16_3000_1799/master/3000.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=4d668bb75a993bb4abe2288f77c10988",
+      "hardwareSpec": "Z80 @ 3.5Hz, 16kB/48kB/128kB memory",
+      "unitSales": "5,000,000",
+      "copy":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia."
+    },
+
+    {
+      "tag": "8",
+      "console": "ZX Spectrum 48k",
+      "year": "1982",
+      "img": "https://i.guim.co.uk/img/media/27a58dda16c71b994028141943fcee4cffafc7e9/0_16_3000_1799/master/3000.jpg?w=720&q=20&auto=format&usm=12&fit=max&dpr=2&s=4d668bb75a993bb4abe2288f77c10988",
+      "hardwareSpec": "Z80 @ 3.5Hz, 16kB/48kB/128kB memory",
+      "unitSales": "5,000,000",
+      "copy":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia."
+    },
+
     ])
