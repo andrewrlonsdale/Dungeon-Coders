@@ -106,6 +106,13 @@ db.games.insert([{
     "unitSales": 0,
     "desc":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention."
   },
+  {
+    "tag": "7.1",
+    "name": "Wonder Boy",
+    "Details": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
+    "pic":"./images/platforms/wonderboy.png",
+    "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
+  },
   {  
     "tag": "7",
     "console": "Sega Master System",
