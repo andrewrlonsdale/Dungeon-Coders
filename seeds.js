@@ -98,7 +98,7 @@ db.games.insert([{
     "vid":"https://www.youtube.com/watch?v=Aw4JccvxU-s"
   },
   {  
-    "tag": "8",
+    "tag": "7",
     "console": "Sega SG-1000",
     "year": "1984",
     "img": "./images/platforms/sg100.png",
@@ -114,13 +114,20 @@ db.games.insert([{
     "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
   },
   {  
-    "tag": "7",
+    "tag": "8",
     "console": "Sega Master System",
     "year": "1985",
     "img": "./images/platforms/master_system.png",
     "hardwareSpec": "4mhz, 8kb RAM",
     "unitSales": 13000000,
     "desc":"Every generation has their schisms.  Were you a mod or a rocker? Punk or Prog? Blur or Oasis? For folks of a certain age, the big question was 'Sega or Nintendo??'.  The Master System by Sega was a big rival to the NES, offering an edgier stable of games to counter Nintendo's slightly more cutesy image.  Units moved from stores as quickly as Sonic the Hedgehog's trainers."
+  },
+  {
+    "tag": "8.1",
+    "name": "Wonder Boy",
+    "Details": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
+    "pic":"./images/platforms/wonderboy.png",
+    "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
   },
   {  
     "tag": "9",
