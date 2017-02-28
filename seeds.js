@@ -329,29 +329,35 @@ db.games.insert([{
     "console": "Xbox 360",
     "year": "2005",
     "img": "./images/platforms/xbox360.png",
-    "hardwareSpec": "3.2GHz",
+    "details": "3.2GHz",
     "unitSales": 80000000,
     "desc":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units."
   },
   {
     "tag": "18.1",
     "name": "Fallout 3",
+    "year": "2005",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
-    "pic":"./images/platforms/fallout3.png",
+    "pic":"./images/games/fallout3.png",
     "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
   },  
   {
     "tag": "19",
-    "console": "PlayStation 3",
+    "name": "PlayStation 3",
     "year": "2005",
     "img": "./images/platforms/ps3.png",
-    "hardwareSpec": "3.2GHz",
+    "details": "3.2GHz",
     "unitSales": 84000000,
     "desc":"The PS3 was released in Japan and North America in November, 2006 and in Europe and Australia in March, 2007.  When released, it was the world's most sophisticated video game console to date. The successor of the most popular gaming system ever, the PlayStation 2, the PS3 quickly became the system to beat with its superior graphics, motion-sensing controller, network capabilities, and stellar lineup of games. Sony decided to market two versions of the PS3. One had a 60GB hard drive, WiFi wireless internet, and the ability to read various flash ram cards. The lower cost version features a 20GB drive, and does not have the aforementioned options. Both systems were otherwise the same. Both cost significantly more than prior competition."
   },
   {
     "tag": "19.1",
     "name": "Skyrim",
+    "year": "2005",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
     "pic":"./images/platforms/skyrim.png",
     "vid":"https://www.youtube.com/watch?v=PjqsYzBrP-M"
