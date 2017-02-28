@@ -1,4 +1,6 @@
-var GameDataRequester = require('../models/gameDataRequester')
+var TreeHandler = require('./treeHandler');
+var GameDataRequester = require('../models/gameDataRequester');
+var treeHandler = new TreeHandler();
 
 var UI = function(){
   var gameDataRequester = new GameDataRequester();
