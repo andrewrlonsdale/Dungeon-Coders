@@ -256,6 +256,7 @@ h1#pacHead {
 
 }
 
+/*video */
 video#pacvid {
   height: 400px;
   width: 700px;
@@ -263,7 +264,7 @@ video#pacvid {
   padding-bottom:50px;
 
 }
-
+/*1p start animation*/
 a#play {
   color: yellow;
   font-family: myFirstFont;
