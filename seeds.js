@@ -236,6 +236,13 @@ db.games.insert([{
     "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play."
   },
   {
+    "tag": "15.1",
+    "name": "Crazy Taxi",
+    "Details": "An irreverent driving sim.  Great fun!",
+    "pic":"./images/platforms/crazytaxi.png",
+    "vid":"https://www.youtube.com/watch?v=YhsE6qdQr1g"
+  },
+  {
     "tag": "16",
     "console": "PlayStation 2",
     "year": "2000",
