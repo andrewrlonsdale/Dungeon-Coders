@@ -65,11 +65,9 @@ UI.prototype = {
       p2.innerText= game.unitSales;
       p3.innerText= game.desc;
 
-      p.setAttribute("id", game.tag);
-      this.appendText(p, game.console, "");
-      this.appendText(p, game.HardwareSpec, "");
-      this.appendText(p, game.UnitSales, "");
-      this.appendText(p, game.desc, "");
+      p4.innerText= "Specifications :";
+      p5.innerText= "Sales:";
+      p6.innerText= "Description:";
 
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
