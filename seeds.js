@@ -12,8 +12,10 @@ db.games.insert([{
   },
   {
     "tag": "1.1",
-    "name": "Test Game",
-    "Details": "Some stuff"
+    "name": "Table Tennis",
+    "Details": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
+    "pic":"./images/platforms/magnavox_tennis.png",
+    "vid":"https://www.youtube.com/watch?v=bfmL6l128JU"
   },
   {
     "tag": "2",
