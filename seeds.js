@@ -140,10 +140,10 @@ db.games.insert([{
   },
   {
     "tag": "9.1",
-    "name": "",
+    "name": "Asteroids",
     "Details": "Another arcade regular makes its way into the home.",
     "pic":"./images/platforms/asteroids.png",
-    "vid":"hhttps://www.youtube.com/watch?v=cZfsnA7dAHI"
+    "vid":"https://www.youtube.com/watch?v=cZfsnA7dAHI"
   },
   {
     "tag": "10",
@@ -154,6 +154,13 @@ db.games.insert([{
     "unitSales": 4850000,
     "desc":"In the early 80s, Atari employee Jay Miner began working on an ambitious computer design, codenamed Lorraine, eventually setting up a new company, Amiga Inc, to explore the idea. Running a Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM, it was monstrously powerful, and Commodore spotted its potential, buying out the IP. The Amiga went on to became a games behemoth, boasting titles like Lemmings, Cannon Fodder and Monkey Island as well as supporting the famed demo scene, where hardcore indie coders pushed the tech to its limits."
   },
+  {
+    "tag": "10.1",
+    "name": "Another World",
+    "Details": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
+    "pic":"./images/platforms/anotherworld.png",
+    "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
+  },
   {  
     "tag": "11",
     "console": "Sega Mega-Drive (US: Genesis)",
@@ -162,6 +169,13 @@ db.games.insert([{
     "hardwareSpec": "7.6mhz",
     "unitSales": 30000000,
     "desc":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though."
+  },
+  {
+    "tag": "10.1",
+    "name": "",
+    "Details": "",
+    "pic":"./images/platforms/anotherworld.png",
+    "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
   },
   {  
     "tag": "12",
