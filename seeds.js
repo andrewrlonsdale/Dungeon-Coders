@@ -187,7 +187,7 @@ db.games.insert([{
     "desc":"The guys at Atari may have overstreched themselves with the Jaguar.  Marketed as the first '64-bit' console while competing with the wildly popular 16-bit machines from Nintendo and Sega, the Jaguar utilised a multi chip architecture that, while capable of rendering excellent graphics and framerates, was very difficult for developers to work with, resulting in a slightly bare library of games.  This was sadly where Atari bowed out of the 'premier league' of consoles."
   },
   {
-    "tag": "11.2",
+    "tag": "12.1",
     "name": "Doom",
     "Details": "Gory as hell! The seminal first person shooter. Multi platform, but the Jaguar did it justice.",
     "pic":"./images/platforms/doom.png",
@@ -201,6 +201,13 @@ db.games.insert([{
     "hardwareSpec": "R3000 @ 33.86mhz, 2MB RAM",
     "unitSales": 103000000,
     "desc":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
+  },
+  {
+    "tag": "13.1",
+    "name": "Wipeout",
+    "Details": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
+    "pic":"./images/platforms/wipeout.png",
+    "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
   },
   {  
     "tag": "14",
