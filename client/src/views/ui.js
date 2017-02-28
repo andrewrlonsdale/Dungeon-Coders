@@ -1,29 +1,42 @@
-var GameDataRequester = require('../models/gameDataRequester')
+var TreeHandler = require('./treeHandler');
+var GameDataRequester = require('../models/gameDataRequester');
+var treeHandler = new TreeHandler();
 
 var UI = function(){
   var gameDataRequester = new GameDataRequester();
   gameDataRequester.all(function(results){
     this.render(results);
   }.bind(this));
+  treeHandler.cloudTrees('tree', 'forest', 400, 0, -450);
+  treeHandler.cloudTrees('cloud', 'forest', 50, -500, -1000);
 }
 
 UI.prototype = {
+  createText: function(text, label){
+    var p = document.createElement('p');
+    p.innerText = label + text;
+    return p;
+  },
 
+  appendText: function(element, text, label){
+    var pTag = this.createText(text, label);
+    element.appendChild(pTag);
+  },
 
   render: function(games){
     var container = document.querySelector('#games');
     games.forEach(function(game){
 
-      var h3 = document.createElement('h3');
-      h3.setAttribute("value", game.tag);
-      h3.innerText= game.year;
-      container.appendChild(h3);
-
-      var container5 = document.querySelector('#games');
+      var li = document.createElement('li');
       var image = document.createElement('img');
+      li.setAttribute("value", game.tag);
       image.setAttribute("value", game.tag);
+
+      this.appendText(li, game.year, "");
+
       image.src = game.img;  
-      container5.appendChild(image);
+      li.appendChild(image);
+      container.appendChild(li);
 
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');

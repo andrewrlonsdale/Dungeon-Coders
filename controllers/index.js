@@ -8,8 +8,8 @@ router.get('/', function(req, res) {
   res.sendFile(path.join(__dirname + '/../client/build/index.html'));
 });
 
-router.get('/about', function(req, res){
-  res.json({data: "More than you ever wished to know about computer gaming"});
+router.get('/home', function(req, res){
+  res.sendFile(path.join(__dirname + '/../client/build/home.html'));
 });
 
 module.exports = router;
