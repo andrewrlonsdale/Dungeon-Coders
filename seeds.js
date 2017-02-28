@@ -213,7 +213,6 @@ db.games.insert([{
     "tag": "14",
     "console": "Nintendo 64",
     "year": "1996",
-    "img": "lksdjf",
     "img": "./images/platforms/N64.png",
     "hardwareSpec": "93.59mhz",
     "unitSales": 33000000,
@@ -268,13 +267,11 @@ db.games.insert([{
     "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans."
   },
   {
-    "tag": "20",
-    "console": "PlayStation 3",
-    "year": "2005",
-    "img": "./images/platforms/ps3.png",
-    "hardwareSpec": "3.2GHz",
-    "unitSales": 84000000,
-    "desc":"The PS3 was released in Japan and North America in November, 2006 and in Europe and Australia in March, 2007.  When released, it was the world's most sophisticated video game console to date. The successor of the most popular gaming system ever, the PlayStation 2, the PS3 quickly became the system to beat with its superior graphics, motion-sensing controller, network capabilities, and stellar lineup of games. Sony decided to market two versions of the PS3. One had a 60GB hard drive, WiFi wireless internet, and the ability to read various flash ram cards. The lower cost version features a 20GB drive, and does not have the aforementioned options. Both systems were otherwise the same. Both cost significantly more than prior competition."
+    "tag": "17.1",
+    "name": "Metroid Prime",
+    "Details": "A remake of the classic space adventure game.  Lauded by critics",
+    "pic":"./images/platforms/metroid.png",
+    "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
   },
   {
     "tag": "18",
