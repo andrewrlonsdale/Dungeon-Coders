@@ -167,6 +167,16 @@ db.games.insert([
 
     {
       "tag": "17",
+      "console": "PlayStation 2",
+      "year": "2000",
+      "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
+      "hardwareSpec": "3GHz",
+      "unitSales": 155000000,
+      "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day."
+    },
+
+    {
+      "tag": "18",
       "console": "Xbox 360",
       "year": "2005",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -176,7 +186,7 @@ db.games.insert([
     },
 
     {
-      "tag": "18",
+      "tag": "19",
       "console": "Nintendo Wii",
       "year": "2006",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
