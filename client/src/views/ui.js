@@ -42,20 +42,18 @@ UI.prototype = {
 
       var container4 = document.querySelector('#body');
       var p = document.createElement('p');
-<<<<<<< HEAD
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
 
       p.innerText= game.HardwareSpec;
       p2.innerText= game.UnitSales;
-      p3.innerText= game.copy;
-=======
+      p3.innerText= game.desc;
+
       p.setAttribute("id", game.tag);
       this.appendText(p, game.console, "");
       this.appendText(p, game.HardwareSpec, "");
       this.appendText(p, game.UnitSales, "");
       this.appendText(p, game.desc, "");
->>>>>>> apiextend
 
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
