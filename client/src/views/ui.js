@@ -18,6 +18,10 @@ UI.prototype = {
     return p;
   },
 
+  appendText: function(element, text, label){
+    var pTag = this.createText(text, label);
+    element.appendChild(pTag);
+  },
 
   render: function(games){
     var container = document.querySelector('#games');
