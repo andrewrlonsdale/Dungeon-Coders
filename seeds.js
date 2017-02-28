@@ -12,9 +12,12 @@ db.games.insert([{
   },
   {
     "tag": "1.1",
-    "name": "Table Tennis",
-    "Details": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
-    "pic":"./images/platforms/magnavox_tennis.png",
+    "console": "Table Tennis",
+    "year": "1972",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
+    "desc": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
+    "img":"./images/games/magnavox_tennis.png",
     "vid":"https://www.youtube.com/watch?v=bfmL6l128JU"
   },
   {
@@ -28,9 +31,12 @@ db.games.insert([{
   },
   {
     "tag": "2.1",
-    "name": "Pong",
-    "Details": "And here's the real thing... An arcade in your living room.",
-    "pic":"./images/platforms/pong.png",
+    "console": "Pong",
+    "year": "1975",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
+    "Desc": "And here's the real thing... An arcade in your living room.",
+    "img":"./images/games/pong.png",
     "vid":"https://www.youtube.com/watch?v=it0sf4CMDeM"
   },
   {  
@@ -44,9 +50,12 @@ db.games.insert([{
   },
   {
     "tag": "3.1",
-    "name": "Pacman",
+    "console": "Pacman",
+    "year": "1977",
+    "hardwareSpec": "n/a",
+    "unitSales": "n/a",
     "Details": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
-    "pic":"./images/platforms/pacman.png",
+    "pic":"./images/games/pacman.png",
     "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
   },
   {  
