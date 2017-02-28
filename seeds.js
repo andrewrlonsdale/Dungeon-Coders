@@ -5,7 +5,7 @@ db.games.insert([{
     "tag": "1",
     "console": "Magnavox Odyssey",
     "year": "1972",
-    "img": "./images/platforms/magnavox_odessy.jpg",
+    "img": "./images/platforms/magnavox_odessey.jpg",
     "hardwareSpec": "40 transistors and 40 diodes",
     "unitSales": "350,000",
     "desc":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong."
@@ -59,7 +59,7 @@ db.games.insert([{
     "tag": "8",
     "console": "Sega SG-1000",
     "year": "1984",
-    "img": "./images/platforms/sg1000.png",
+    "img": "./images/platforms/sg100.png",
     "hardwareSpec": "3.58mhz",
     "unitSales": 0,
     "desc":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention."
@@ -77,7 +77,7 @@ db.games.insert([{
     "tag": "9",
     "console": "Atari 7800",
     "year": "1986",
-    "img": "./images/platforms/atari7800",
+    "img": "./images/platforms/atari7800.png",
     "hardwareSpec": "1.78mhz",
     "unitSales": 3700000,
     "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
@@ -86,7 +86,7 @@ db.games.insert([{
     "tag": "10",
     "console": "Commodore Amiga 500",
     "year": "1987",
-    "img": "./images/platforms/amiga500",
+    "img": "./images/platforms/amiga500.png",
     "hardwareSpec": "Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM",
     "unitSales": 4850000,
     "desc":"In the early 80s, Atari employee Jay Miner began working on an ambitious computer design, codenamed Lorraine, eventually setting up a new company, Amiga Inc, to explore the idea. Running a Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM, it was monstrously powerful, and Commodore spotted its potential, buying out the IP. The Amiga went on to became a games behemoth, boasting titles like Lemmings, Cannon Fodder and Monkey Island as well as supporting the famed demo scene, where hardcore indie coders pushed the tech to its limits."
