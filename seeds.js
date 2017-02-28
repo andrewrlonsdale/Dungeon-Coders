@@ -281,6 +281,13 @@ db.games.insert([{
     "hardwareSpec": "3.2GHz",
     "unitSales": 80000000,
     "desc":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units."
+  },
+  {
+    "tag": "18.1",
+    "name": "Fallout 3",
+    "Details": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
+    "pic":"./images/platforms/fallout3.png",
+    "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
   },  
   {
     "tag": "19",
