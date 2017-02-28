@@ -54,7 +54,7 @@ db.games.insert([
     },
 
   { 
-      "tag": "5",
+      "tag": "6",
       "console": "Nintendo Entertainment System (NES)",
       "year": "1983",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -65,7 +65,7 @@ db.games.insert([
 
 
     {  
-      "tag": "4",
+      "tag": "7",
       "console": "Sega Master System",
       "year": "1985",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -75,7 +75,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "7",
+      "tag": "8",
       "console": "Sega SG-1000",
       "year": "1984",
       "img": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Sega-SG-1000-Console-Set.jpg",
@@ -85,7 +85,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "8",
+      "tag": "9",
       "console": "Sega Master System",
       "year": "1985",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -95,7 +95,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "9",
+      "tag": "10",
       "console": "Atari 7800",
       "year": "1986",
       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Atari-7800-Console-Set.jpg",
@@ -105,7 +105,7 @@ db.games.insert([
     },
 
     {
-      "tag": "10",
+      "tag": "11",
       "console": "Commodore Amiga 500",
       "year": "1987",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -115,7 +115,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "11",
+      "tag": "12",
       "console": "Sega Mega-Drive (US: Genesis)",
       "year": "1988",
       "img": "https://en.wikipedia.org/wiki/Sega_Genesis#/media/File:Sega-Mega-Drive-JP-Mk1-Console-Set.jpg",
@@ -125,7 +125,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "10",
+      "tag": "13",
       "console": "Atari Jaguar",
       "year": "1994",
       "img": "https://en.wikipedia.org/wiki/Atari_Jaguar#/media/File:Atari-Jaguar-Console-Set.jpg",
@@ -135,7 +135,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "12",
+      "tag": "14",
       "console": "Sony PlayStation",
       "year": "1994",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
@@ -145,7 +145,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "11",
+      "tag": "15",
       "console": "Nintendo 64",
       "year": "1996",
       "img": "",
@@ -156,7 +156,7 @@ db.games.insert([
     },
 
     {  
-      "tag": "12",
+      "tag": "16",
       "console": "Sega Dreamcast",
       "year": "1998",
       "img": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Dreamcast-Console-Set.png/1280px-Dreamcast-Console-Set.png",
@@ -166,22 +166,22 @@ db.games.insert([
     },
 
     {
-      "tag": "13",
+      "tag": "17",
       "console": "Xbox 360",
       "year": "2005",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
-      "hardwareSpec": "3.2GHz with 512MB of RAM",
-      "unitSales": "80,000,000",
+      "hardwareSpec": "3.2GHz",
+      "unitSales": 80000000,
       "copy":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units."
     },
 
     {
-      "tag": "14",
+      "tag": "18",
       "console": "Nintendo Wii",
       "year": "2006",
       "img": "http://i758.photobucket.com/albums/xx226/focus1002/ASHPik_zpsb99fb2f7.png",
-      "hardwareSpec": "729MHz, 88MB of RAM",
-      "unitSales": "101,630,000",
+      "hardwareSpec": "729MHz",
+      "unitSales": 101630000,
       "copy":"After the underperforming N64 and GameCube, expectations for the Wii were low. But then at the 2005 Tokyo Game Show, Nintendo revealed the machine’s innovative motion controller, the Wii Remote, providing a new kind of intuitive physical interaction. Designers Ken’ichiro Ashida and Shigeru Miyamoto were inspired by mobile phones and remote control devices, and the team spent two years getting the wireless technology just right. The main aim with the Wii, they claimed, was to make a console that mums would play. It sold 100m units."
     }
 
