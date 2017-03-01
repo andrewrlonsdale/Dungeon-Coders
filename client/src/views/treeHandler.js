@@ -28,7 +28,6 @@ TreeHandler.prototype = {
     cloudTrees: function (type, parent, number, zMin, zMax) {
     var thingType = {
         tree: ['tree-one',
-            'tree-two',
             'stone-one',
             'stone-two'
            ],
@@ -47,7 +46,7 @@ TreeHandler.prototype = {
         var zPos = this.rand(zMin, zMax);
         this.setAttrs(tree, {
             'class': type + ' ' + thisThing[this.rand(0, 6)],
-            'style': 'left:' + (this.rand(150 * zPos, targetWidth)) + 'px;-transform:translateZ(' + zPos + 'px)scale(' + scaler + ');transform:translateZ(' + zPos + 'px) scale(' + scaler + ');'
+            'style': 'left:' + (this.rand(80 * zPos, targetWidth)) + 'px;-transform:translateZ(' + zPos + 'px)scale(' + scaler + ');transform:translateZ(' + zPos + 'px) scale(' + scaler + ');'
         });
         target.appendChild(tree);
     }
