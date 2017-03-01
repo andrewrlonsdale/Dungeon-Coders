@@ -248,7 +248,8 @@ db.games.insert([{
     "img": "./images/platforms/PS.png",
     "details": "R3000 @ 33.86mhz, 2MB RAM",
     "unitSales": 103000000,
-    "desc":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions."
+    "desc":"This is the moment when gaming truly came of age.  An exquisitely built machine, controller design that has endured for nearly a quarter-century and the introduction of game franchises that still thrill, excite and sell in the millions.",
+    "vid": "https://www.youtube.com/watch?v=mmL5-iXy-R8"
   },
   {
     "tag": "13.1",
