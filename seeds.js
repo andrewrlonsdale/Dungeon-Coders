@@ -28,7 +28,8 @@ db.games.insert([{
     "img": "./images/platforms/pong.png",
     "details": "128k",
     "unitSales": 150000,
-    "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home."
+    "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home.",
+    "vid": "https://www.youtube.com/watch?v=9d5Ex-dJDtQ"
   },
   {
     "tag": "2.1",
@@ -47,7 +48,8 @@ db.games.insert([{
     "img": "./images/platforms/atari2600.png",
     "details": "CPU: 1.19mhz, 128bytes RAM",
     "unitSales": 30000000,
-    "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!"
+    "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!",
+    "vid": "https://www.youtube.com/watch?v=913xrM9FYpI"
   },
   {
     "tag": "3.1",
@@ -66,7 +68,8 @@ db.games.insert([{
     "img": "./images/platforms/vectrex.png",
     "details": "1.5mhz",
     "unitSales": 500000,
-    "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
+    "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more...",
+    "vid": "https://www.youtube.com/watch?v=U8zTSfmITf4"
   },
   {
     "tag": "4.1",
