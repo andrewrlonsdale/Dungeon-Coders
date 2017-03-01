@@ -169,7 +169,7 @@ db.games.insert([{
     "details": "1.78mhz",
     "unitSales": 3700000,
     "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992.",
-    "vid": "https://www.youtube.com/watch?v=Oxfsb1wvWb8"
+    "vid": "https://www.youtube.com/embed/Oxfsb1wvWb8"
   },
   {
     "tag": "9.1",
@@ -179,7 +179,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Another arcade regular makes its way into the home.",
     "img":"./images/games/asteroids.png",
-    "vid":"https://www.youtube.com/watch?v=cZfsnA7dAHI"
+    "vid":"https://www.youtube.com/embed/cZfsnA7dAHI"
   },
   {
     "tag": "10",
@@ -189,7 +189,7 @@ db.games.insert([{
     "details": "Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM",
     "unitSales": 4850000,
     "desc":"In the early 80s, Atari employee Jay Miner began working on an ambitious computer design, codenamed Lorraine, eventually setting up a new company, Amiga Inc, to explore the idea. Running a Motorola 68000 microprocessor at 7.14 MHz with 512 KB of RAM, it was monstrously powerful, and Commodore spotted its potential, buying out the IP. The Amiga went on to became a games behemoth, boasting titles like Lemmings, Cannon Fodder and Monkey Island as well as supporting the famed demo scene, where hardcore indie coders pushed the tech to its limits.",
-    "vid": "https://www.youtube.com/watch?v=I84Oir2G4aw"
+    "vid": "https://www.youtube.com/embed/I84Oir2G4aw"
   },
   {
     "tag": "10.1",
