@@ -91,6 +91,8 @@ UI.prototype = {
 
       image.onclick = function() {
         resetModal();
+        var audio = document.getElementById("myAudio");
+        audio.pause();
         modal.style.display = "block";
         if(game.tag === image.getAttribute("value")) {
          var modalChildren = modal.getElementsByTagName("div")
@@ -111,13 +113,16 @@ UI.prototype = {
     // When the user clicks on <span> (x), close the modal
     span.onclick = function() {
       modal.style.display = "none";
-
+      var audio = document.getElementById("myAudio");
+      audio.play();
     }
 
     // When the user clicks anywhere outside of the modal, close it
     window.onclick = function(event) {
       if (event.target == modal) {
         modal.style.display = "none";
+        var audio = document.getElementById("myAudio");
+        audio.play();
       }
     }
 
@@ -126,5 +131,7 @@ UI.prototype = {
   },
 
 };
+
+
 
 module.exports = UI;
