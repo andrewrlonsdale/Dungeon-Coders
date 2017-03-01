@@ -421,17 +421,20 @@ db.games.insert([{
   }, 
   {
     "tag": "23",
-    "console": "Nintendo Switch",
+    "name": "Nintendo Switch",
     "year": "2017",
     "img": "./images/platforms/nintendoswitch.png",
-    "hardwareSpec": "3.2GHz",
+    "details": "3.2GHz",
     "unitSales": "In progress!",
     "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath."
   },
   {
     "tag": "21.1",
     "name": "The Legend Of Zelda: Breath Of The Wild",
+    "year": "2017",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
-    "pic": "./images/platforms/botw.png",
+    "pic": "./images/games/botw.png",
     "vid":"https://www.youtube.com/watch?v=zw47_q9wbBE"
 }])
