@@ -148,7 +148,8 @@ db.games.insert([{
     "img": "./images/platforms/master_system.png",
     "details": "4mhz, 8kb RAM",
     "unitSales": 13000000,
-    "desc":"Every generation has their schisms.  Were you a mod or a rocker? Punk or Prog? Blur or Oasis? For folks of a certain age, the big question was 'Sega or Nintendo??'.  The Master System by Sega was a big rival to the NES, offering an edgier stable of games to counter Nintendo's slightly more cutesy image.  Units moved from stores as quickly as Sonic the Hedgehog's trainers."
+    "desc":"Every generation has their schisms.  Were you a mod or a rocker? Punk or Prog? Blur or Oasis? For folks of a certain age, the big question was 'Sega or Nintendo??'.  The Master System by Sega was a big rival to the NES, offering an edgier stable of games to counter Nintendo's slightly more cutesy image.  Units moved from stores as quickly as Sonic the Hedgehog's trainers.",
+    "vid": "https://www.youtube.com/watch?v=r6x3iNB0ddo"
   },
   {
     "tag": "8.1",
