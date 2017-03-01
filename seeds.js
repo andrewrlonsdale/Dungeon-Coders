@@ -229,7 +229,7 @@ db.games.insert([{
     "details": "26.59mhz",
     "unitSales": 250000,
     "desc":"The guys at Atari may have overstreched themselves with the Jaguar.  Marketed as the first '64-bit' console while competing with the wildly popular 16-bit machines from Nintendo and Sega, the Jaguar utilised a multi chip architecture that, while capable of rendering excellent graphics and framerates, was very difficult for developers to work with, resulting in a slightly bare library of games.  This was sadly where Atari bowed out of the 'premier league' of consoles.",
-    "vid": "https://www.youtube.com/watch?v=nxuna944dls"
+    "vid": "https://www.youtube.com/embed/nxuna944dls"
   },
   {
     "tag": "12.1",
@@ -239,7 +239,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Gory as hell! The seminal first person shooter. Multi platform, but the Jaguar did it justice.",
     "img":"./images/games/doom.png",
-    "vid":"https://www.youtube.com/watch?v=jP2jI0BVG0w"
+    "vid":"https://www.youtube.com/embed/jP2jI0BVG0w"
   },
   {  
     "tag": "13",
