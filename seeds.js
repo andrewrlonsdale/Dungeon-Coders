@@ -308,7 +308,8 @@ db.games.insert([{
     "img": "./images/platforms/PS2.png",
     "details": "3GHz",
     "unitSales": 155000000,
-    "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day."
+    "desc":"The PS2 was quite simply a behemoth.  It still remains the highest-selling console of all time, with a staggering 155,000,000 units shipped to date.  Add to that the 4000 strong game library, and total of 1.5 BILLION games sold, and you have an era defining console.  Titles like the Grand Theft Auto and Metal Gear Solid franchises mean that gamers are still firing up their PS2s to this day.",
+    "vid": "https://www.youtube.com/watch?v=h28Kbdfmvbk"
   },
   {
     "tag": "16.1",
