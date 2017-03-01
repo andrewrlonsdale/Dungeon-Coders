@@ -389,7 +389,7 @@ db.games.insert([{
     "details": "729MHz",
     "unitSales": 101630000,
     "desc":"After the underperforming N64 and GameCube, expectations for the Wii were low. But then at the 2005 Tokyo Game Show, Nintendo revealed the machine’s innovative motion controller, the Wii Remote, providing a new kind of intuitive physical interaction. Designers Ken’ichiro Ashida and Shigeru Miyamoto were inspired by mobile phones and remote control devices, and the team spent two years getting the wireless technology just right. The main aim with the Wii, they claimed, was to make a console that mums would play. It sold 100m units.",
-    "vid": "https://www.youtube.com/watch?v=3Ke0IvvIq5Y"
+    "vid": "https://www.youtube.com/embed/3Ke0IvvIq5Y"
   },
   {
     "tag": "20.1",
@@ -399,7 +399,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Wii Sports shipped with the console, in order to showcase the new-fangled motion sensor controller (Wiimote). Brough gaming to a whole new demographic.",
     "img": "./images/games/wiisports.png",
-    "vid":"https://www.youtube.com/watch?v=Ftyg6Sej3Kc"
+    "vid":"https://www.youtube.com/embed/Ftyg6Sej3Kc"
   }, 
   {
     "tag": "21",
