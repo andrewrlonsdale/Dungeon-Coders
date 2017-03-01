@@ -22,7 +22,7 @@ body {
   margin: 0;
   height: 100vh;
   width: 100vw;
-  background: #00133E;
+  background: #87cefa;
   overflow-x: hidden;
 }
 
@@ -74,19 +74,19 @@ li {
   transform-style: preserve-3d;
   display: inline-block;
   float: left;
-  width: 500vw;
+  width: 800vw;
 }
 
 .tree-one {
- background: url(http://i.imgur.com/osIQCLS.png);
- width: 201px;
- height: 209px;
+ background: url(https://img.clipartfest.com/d6f7f8f83d2afc6d2da3f6b430e174f2_clipartistnet-clip-art-cactus-clipart-png_555-1116.png);
+ width: 900px;
+ height: 809px;
 }
 
 .tree-two {
- background: url(http://i.imgur.com/joUrlbZ.png);
- width: 226px;
- height: 409px;
+ background: url(https://img.clipartfest.com/d6f7f8f83d2afc6d2da3f6b430e174f2_clipartistnet-clip-art-cactus-clipart-png_555-1116.png);
+ width: 726px;
+ height: 909px;
 }
 .stone-one {
  background: url(http://i.imgur.com/YLQt8Nl.png) bottom no-repeat;
@@ -152,10 +152,10 @@ li {
  display: block;
  position: absolute;
  left: -80%;
- width: 260%;
+ width: 400%;
  height: 100vh;
  bottom: 0;
- background: #4E533C;
+ background: #fcd046;
  transform-origin: bottom;
  transform: rotateX(90deg); 
 }
@@ -309,8 +309,3 @@ img {
   font-size: 25px;
 }
 
-
-iframe {
-  width: 560;
-  height: 315;
-} 
