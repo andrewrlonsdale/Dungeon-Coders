@@ -295,7 +295,7 @@ db.games.insert([{
     "tag": "15.1",
     "name": "Crazy Taxi",
     "year": "1998",
-    "details": "n/a",
+    "details": "racing video game",
     "unitSales": "n/a",
     "desc": "An irreverent driving sim.  Great fun!",
     "img":"./images/games/crazytaxi.png",
