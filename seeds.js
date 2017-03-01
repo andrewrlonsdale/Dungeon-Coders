@@ -128,7 +128,8 @@ db.games.insert([{
     "img": "./images/platforms/sg100.png",
     "details": "3.58mhz",
     "unitSales": 0,
-    "desc":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention."
+    "desc":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention.",
+    "vid": "https://www.youtube.com/watch?v=SVYDqwI3ND4"
   },
   {
     "tag": "7.1",
