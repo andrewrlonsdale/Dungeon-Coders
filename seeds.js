@@ -319,7 +319,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
     "img":"./images/games/gtasa.png",
-    "vid":"https://www.youtube.com/watch?v=u_CbHrBbHNQ"
+    "vid":"https://www.youtube.com/embed/u_CbHrBbHNQ"
   },
   {  
     "tag": "17",
@@ -329,7 +329,7 @@ db.games.insert([{
     "details": "162mhz",
     "unitSales": 22000000,
     "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans.",
-    "vid": "https://www.youtube.com/watch?v=yji_sBjt0_U"
+    "vid": "https://www.youtube.com/embed/yji_sBjt0_U"
   },
   {
     "tag": "17.1",
@@ -339,7 +339,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "A remake of the classic space adventure game.  Lauded by critics",
     "img":"./images/games/metroid.png",
-    "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
+    "vid":"https://www.youtube.com/embed/RwhS76r0OqE"
   },
   {
     "tag": "18",
@@ -349,7 +349,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": 80000000,
     "desc":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units.",
-    "vid": "https://www.youtube.com/watch?v=hWAKZitUZOo"
+    "vid": "https://www.youtube.com/embed/hWAKZitUZOo"
   },
   {
     "tag": "18.1",
@@ -359,7 +359,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
     "img":"./images/games/fallout3.png",
-    "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
+    "vid":"https://www.youtube.com/embed/pAN0ByjSsV4"
   },  
   {
     "tag": "19",
@@ -369,7 +369,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": 84000000,
     "desc":"The PS3 was released in Japan and North America in November, 2006 and in Europe and Australia in March, 2007.  When released, it was the world's most sophisticated video game console to date. The successor of the most popular gaming system ever, the PlayStation 2, the PS3 quickly became the system to beat with its superior graphics, motion-sensing controller, network capabilities, and stellar lineup of games. Sony decided to market two versions of the PS3. One had a 60GB hard drive, WiFi wireless internet, and the ability to read various flash ram cards. The lower cost version features a 20GB drive, and does not have the aforementioned options. Both systems were otherwise the same. Both cost significantly more than prior competition.",
-    "vid": "https://www.youtube.com/watch?v=gqkNPcUMffU"
+    "vid": "https://www.youtube.com/embed/gqkNPcUMffU"
   },
   {
     "tag": "19.1",
@@ -379,7 +379,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
     "img":"./images/games/skyrim.png",
-    "vid":"https://www.youtube.com/watch?v=PjqsYzBrP-M"
+    "vid":"https://www.youtube.com/embed/PjqsYzBrP-M"
   }, 
   {
     "tag": "20",
@@ -389,7 +389,7 @@ db.games.insert([{
     "details": "729MHz",
     "unitSales": 101630000,
     "desc":"After the underperforming N64 and GameCube, expectations for the Wii were low. But then at the 2005 Tokyo Game Show, Nintendo revealed the machine’s innovative motion controller, the Wii Remote, providing a new kind of intuitive physical interaction. Designers Ken’ichiro Ashida and Shigeru Miyamoto were inspired by mobile phones and remote control devices, and the team spent two years getting the wireless technology just right. The main aim with the Wii, they claimed, was to make a console that mums would play. It sold 100m units.",
-    "vid": "https://www.youtube.com/watch?v=3Ke0IvvIq5Y"
+    "vid": "https://www.youtube.com/embed/3Ke0IvvIq5Y"
   },
   {
     "tag": "20.1",
@@ -399,7 +399,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Wii Sports shipped with the console, in order to showcase the new-fangled motion sensor controller (Wiimote). Brough gaming to a whole new demographic.",
     "img": "./images/games/wiisports.png",
-    "vid":"https://www.youtube.com/watch?v=Ftyg6Sej3Kc"
+    "vid":"https://www.youtube.com/embed/Ftyg6Sej3Kc"
   }, 
   {
     "tag": "21",
@@ -409,7 +409,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": 4000000,
     "desc":" Announced in May 2013, this is the successor to the Xbox 360 and the third console in the Xbox family, and was released in North America, Europe (in some countries), Australia, and Brazil in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an 'all-in-one entertainment system' The Xbox One mainly competes against consoles such as Sonys PlayStation 4 and Nintendo's Wii U as part of the eighth generation of video game consoles.",
-    "vid": "https://www.youtube.com/watch?v=LIYeHCFttMc"
+    "vid": "https://www.youtube.com/embed/LIYeHCFttMc"
   },
   {
     "tag": "21.1",
@@ -419,7 +419,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
     "img": "./images/games/battlefield1.png",
-    "vid":"https://www.youtube.com/watch?v=c7nRTF2SowQ"
+    "vid":"https://www.youtube.com/embed/c7nRTF2SowQ"
   }, 
   {
     "tag": "22",
@@ -429,7 +429,7 @@ db.games.insert([{
     "details": "729MHz",
     "unitSales": 101630000,
     "desc":"In late 2013 the world was treated to the release of the next generation in gaming consoles. The two main contenders of the console wars were, of course, Sony’s PlayStation 4 and Microsoft’s Xbox One. Sony’s PlayStation 4 has many new and advanced characteristics, as well as being packed to the brim with cutting-edge technology.",
-    "vid": "https://www.youtube.com/watch?v=VK03aVJekGg"
+    "vid": "https://www.youtube.com/embed/VK03aVJekGg"
   },
   {
     "tag": "22.1",
@@ -449,7 +449,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": "In progress!",
     "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath.",
-    "vid": "https://www.youtube.com/watch?v=CdWd8fUC71g"
+    "vid": "https://www.youtube.com/embed/CdWd8fUC71g"
   },
   {
     "tag": "23.1",
@@ -459,5 +459,5 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
     "img": "./images/games/botw.png",
-    "vid":"https://www.youtube.com/watch?v=zw47_q9wbBE"
+    "vid": "https://www.youtube.com/embed/zw47_q9wbBE"
 }])
