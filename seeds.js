@@ -383,34 +383,40 @@ db.games.insert([{
   }, 
   {
     "tag": "21",
-    "console": "XboxOne",
+    "name": "XboxOne",
     "year": "2013",
     "img": "./images/platforms/xbone.png",
-    "hardwareSpec": "3.2GHz",
+    "details": "3.2GHz",
     "unitSales": 4000000,
     "desc":" Announced in May 2013, this is the successor to the Xbox 360 and the third console in the Xbox family, and was released in North America, Europe (in some countries), Australia, and Brazil in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an 'all-in-one entertainment system' The Xbox One mainly competes against consoles such as Sonys PlayStation 4 and Nintendo's Wii U as part of the eighth generation of video game consoles."
   },
   {
     "tag": "21.1",
     "name": "Battlefield 1",
+    "year": "2013",
+    "details": "n/a",
+    "unitSales": "n/a",
     "Details": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
-    "pic": "./images/platforms/battlefield1.png",
+    "pic": "./images/games/battlefield1.png",
     "vid":"https://www.youtube.com/watch?v=c7nRTF2SowQ"
   }, 
   {
     "tag": "22",
-    "console": "PlayStation 4",
+    "name": "PlayStation 4",
     "year": "2013",
     "img": "./images/platforms/ps4.png",
-    "hardwareSpec": "729MHz",
+    "details": "729MHz",
     "unitSales": 101630000,
     "desc":"In late 2013 the world was treated to the release of the next generation in gaming consoles. The two main contenders of the console wars were, of course, Sony’s PlayStation 4 and Microsoft’s Xbox One. Sony’s PlayStation 4 has many new and advanced characteristics, as well as being packed to the brim with cutting-edge technology."
   },
   {
     "tag": "21.1",
     "name": "Uncharted 4",
-    "Details": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
-    "pic": "./images/platforms/uc4.png",
+    "year": "1986",
+    "details": "n/a",
+    "unitSales": "n/a",
+    "desc": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
+    "pic": "./images/games/uc4.png",
     "vid":"https://www.youtube.com/watch?v=hh5HV4iic1Y"
   }, 
   {
