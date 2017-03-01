@@ -41,7 +41,7 @@ UI.prototype = {
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
       p.setAttribute("class", "_" + game.tag);
-      p.innerText= game.console;
+      p.innerText= game.name;
 
       container2.appendChild(p);
 
@@ -61,7 +61,7 @@ UI.prototype = {
       var p5 = document.createElement('p');
       var p6 = document.createElement('p');
 
-      p.innerText= game.hardwareSpec;
+      p.innerText= game.details;
       p2.innerText= game.unitSales;
       p3.innerText= game.desc;
 
