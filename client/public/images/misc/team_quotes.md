@@ -14,3 +14,5 @@
 "I think we have too many commits guys." -- Andrew, Wednesday
 
 "We've got till 1. We'll be fine." -- Andrew @ 10:32
+
+"Commit to master" -- less than half-an-hour before presentations
