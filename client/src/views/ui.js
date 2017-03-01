@@ -51,7 +51,7 @@ UI.prototype = {
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
       var p4 = document.createElement('p');
-      
+
       var iframe = document.createElement('iframe');
 
       p.innerText= "Details: " + game.details;
@@ -67,11 +67,15 @@ UI.prototype = {
       p3.setAttribute("class", "_" + game.tag);
       p4.setAttribute("class", "_" + game.tag);
       iframe.setAttribute("class", "tube");
+      iframe.setAttribute("width", "1000px");
+      iframe.setAttribute("height", "300");
+      iframe.setAttribute("frameborder", "0");
+      iframe.setAttribute("allowfullscreen", "true");
+      iframe.setAttribute("border", "0");
+      
       
 
       iframe.src = game.vid;  
-      iframe.allowfullscreen = true;
-      iframe.border = 0;
       container4.appendChild(p);
       container4.appendChild(p2);
       container4.appendChild(p3);
