@@ -168,7 +168,8 @@ db.games.insert([{
     "img": "./images/platforms/atari7800.png",
     "details": "1.78mhz",
     "unitSales": 3700000,
-    "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992."
+    "desc":"The 7800 pioneered some features that gamers today will recognise.  With it's joypad controller and 'high score cartridge', a ROM memory module which could save game data, Atari had a real groundbreaker here.  It was fully back-compatible with the Atari 2600, giving an excellent stable of games.  It sold nearly 4 million units until it was discontinued in 1992.",
+    "vid": "https://www.youtube.com/watch?v=Oxfsb1wvWb8"
   },
   {
     "tag": "9.1",
