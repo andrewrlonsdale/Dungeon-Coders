@@ -319,7 +319,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
     "img":"./images/games/gtasa.png",
-    "vid":"https://www.youtube.com/watch?v=u_CbHrBbHNQ"
+    "vid":"https://www.youtube.com/embed/u_CbHrBbHNQ"
   },
   {  
     "tag": "17",
@@ -329,7 +329,7 @@ db.games.insert([{
     "details": "162mhz",
     "unitSales": 22000000,
     "desc":"With the GameCube, Nintendo release their first disc-medium console (fun fact: also the first Nintendo console not to be accompanied by a Mario title upon launch).  The main innovaation of the GameCube was the ability to connect it to a gameboy advance and use the hand held console as s secondary screen and controller. Not Nintendo's most sucessful console, shipping a relativley low 22 million, but a couple of notable Mario and Zelda titles make this console fondly remembered by  its fans.",
-    "vid": "https://www.youtube.com/watch?v=yji_sBjt0_U"
+    "vid": "https://www.youtube.com/embed/yji_sBjt0_U"
   },
   {
     "tag": "17.1",
