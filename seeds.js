@@ -36,7 +36,7 @@ db.games.insert([{
     "name": "Pong",
     "year": "1975",
     "details": "Sports game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "And here's the real thing... An arcade in your living room.",
     "img":"./images/games/pong.png",
     "vid":"https://www.youtube.com/watch?v=it0sf4CMDeM"
@@ -56,7 +56,7 @@ db.games.insert([{
     "name": "Pacman",
     "year": "1977",
     "details": "arcade",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
     "img":"./images/games/pacman.png",
     "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
@@ -76,7 +76,7 @@ db.games.insert([{
     "name": "Space Wars",
     "year": "1982",
     "details": "Space flight simulation game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
     "img":"./images/games/spacewars.png",
     "vid":"https://www.youtube.com/watch?v=w2mb-ENbxxg"
@@ -96,7 +96,7 @@ db.games.insert([{
     "name": "Elite",
     "year": "1982",
     "details": "Space flight simulation game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Elite was something of a groundbreaker.  It featured a fully explorable procedurally generated universe for gamers to get lost in.  Think 'No Man's Sky' without all the hype and disappointment.",
     "img":"./images/games/elite.png",
     "vid":"https://www.youtube.com/watch?v=batwiJmqZoE"
@@ -116,7 +116,7 @@ db.games.insert([{
     "name": "Super Mario Bros",
     "year": "1983",
     "details": "Platform game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "*The* video game, basically.  Defined the platform genre, and has been the cornerstone of the Nintendo stable for a quarter century.  Mario is the daddy.",
     "img":"./images/games/mario.png",
     "vid":"https://www.youtube.com/watch?v=Aw4JccvxU-s"
