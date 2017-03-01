@@ -288,7 +288,8 @@ db.games.insert([{
     "img": "./images/platforms/dreamcast.png",
     "details": "200mhz",
     "unitSales": 9130000,
-    "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play."
+    "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play.",
+    "vid": "https://www.youtube.com/watch?v=V8XVA0qrHWg"
   },
   {
     "tag": "15.1",
