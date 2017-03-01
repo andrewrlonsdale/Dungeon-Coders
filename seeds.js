@@ -410,7 +410,7 @@ db.games.insert([{
     "desc":"In late 2013 the world was treated to the release of the next generation in gaming consoles. The two main contenders of the console wars were, of course, Sony’s PlayStation 4 and Microsoft’s Xbox One. Sony’s PlayStation 4 has many new and advanced characteristics, as well as being packed to the brim with cutting-edge technology."
   },
   {
-    "tag": "21.1",
+    "tag": "22.1",
     "name": "Uncharted 4",
     "year": "2013",
     "details": "n/a",
@@ -429,7 +429,7 @@ db.games.insert([{
     "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath."
   },
   {
-    "tag": "21.1",
+    "tag": "23.1",
     "name": "The Legend Of Zelda: Breath Of The Wild",
     "year": "2017",
     "details": "n/a",
