@@ -136,7 +136,7 @@ db.games.insert([{
     "name": "Wonder Boy",
     "year": "1984",
     "details": "Platform game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
     "img":"./images/games/wonderboy.png",
     "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
@@ -156,7 +156,7 @@ db.games.insert([{
     "name": "Sonic The Hedgehog",
     "year": "1985",
     "details": "Platform game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Everyone's favourite hyperactive hedgehog!",
     "img":"./images/games/sonic.png",
     "vid":"https://www.youtube.com/watch?v=TP4UXvIZdBo"
@@ -176,7 +176,7 @@ db.games.insert([{
     "name": "Asteroids",
     "year": "1986",
     "details": "arcade",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Another arcade regular makes its way into the home.",
     "img":"./images/games/asteroids.png",
     "vid":"https://www.youtube.com/watch?v=cZfsnA7dAHI"
@@ -196,7 +196,7 @@ db.games.insert([{
     "name": "Another World",
     "year": "1987",
     "details": " Action-adventure game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
     "img":"./images/games/anotherworld.png",
     "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
@@ -216,7 +216,7 @@ db.games.insert([{
     "name": "Streets of Rage",
     "year": "1988",
     "details": "Beat 'em up",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
     "img":"./images/games/sor.png",
     "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
@@ -236,7 +236,7 @@ db.games.insert([{
     "name": "Doom",
     "year": "1994",
     "details": "First-person shooter",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Gory as hell! The seminal first person shooter. Multi platform, but the Jaguar did it justice.",
     "img":"./images/games/doom.png",
     "vid":"https://www.youtube.com/watch?v=jP2jI0BVG0w"
@@ -256,7 +256,7 @@ db.games.insert([{
     "name": "Wipeout",
     "year": "1994",
     "details": "Racing video game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
     "img":"./images/games/wipeout.png",
     "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
@@ -276,7 +276,7 @@ db.games.insert([{
     "name": "Goldeneye 007",
     "year": "1996",
     "details": "First-person shooter",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
     "img":"./images/games/goldeneye.png",
     "vid":"https://www.youtube.com/watch?v=Bj1z7F5BkyM"
@@ -296,7 +296,7 @@ db.games.insert([{
     "name": "Crazy Taxi",
     "year": "1998",
     "details": "racing video game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "An irreverent driving sim.  Great fun!",
     "img":"./images/games/crazytaxi.png",
     "vid":"https://www.youtube.com/watch?v=YhsE6qdQr1g"
@@ -316,7 +316,7 @@ db.games.insert([{
     "name": "Grand Theft Auto: San Andreas",
     "year": "2000",
     "details": "Action-adventure game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
     "img":"./images/games/gtasa.png",
     "vid":"https://www.youtube.com/embed/u_CbHrBbHNQ"
@@ -336,7 +336,7 @@ db.games.insert([{
     "name": "Metroid Prime",
     "year": "2001",
     "details": "Action-adventure game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "A remake of the classic space adventure game.  Lauded by critics",
     "img":"./images/games/metroid.png",
     "vid":"https://www.youtube.com/embed/RwhS76r0OqE"
@@ -356,7 +356,7 @@ db.games.insert([{
     "name": "Fallout 3",
     "year": "2005",
     "details": "Action role-playing game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
     "img":"./images/games/fallout3.png",
     "vid":"https://www.youtube.com/embed/pAN0ByjSsV4"
@@ -376,7 +376,7 @@ db.games.insert([{
     "name": "Skyrim",
     "year": "2005",
     "details": "Action role-playing game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
     "img":"./images/games/skyrim.png",
     "vid":"https://www.youtube.com/embed/PjqsYzBrP-M"
@@ -396,7 +396,7 @@ db.games.insert([{
     "name": "Wii Sports",
     "year": "2006",
     "details": "sports game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Wii Sports shipped with the console, in order to showcase the new-fangled motion sensor controller (Wiimote). Brough gaming to a whole new demographic.",
     "img": "./images/games/wiisports.png",
     "vid":"https://www.youtube.com/embed/Ftyg6Sej3Kc"
@@ -416,7 +416,7 @@ db.games.insert([{
     "name": "Battlefield 1",
     "year": "2013",
     "details": "First-person shooter",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
     "img": "./images/games/battlefield1.png",
     "vid":"https://www.youtube.com/embed/c7nRTF2SowQ"
@@ -436,7 +436,7 @@ db.games.insert([{
     "name": "Uncharted 4",
     "year": "2013",
     "details": "third-person shooter",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
     "img": "./images/games/uc4.png",
     "vid":"https://www.youtube.com/embed/hh5HV4iic1Y"
@@ -456,7 +456,7 @@ db.games.insert([{
     "name": "The Legend Of Zelda: Breath Of The Wild",
     "year": "2017",
     "details": "Action-adventure game",
-    "unitSales": "n/a",
+    "unitSales": "300,000",
     "desc": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
     "img": "./images/games/botw.png",
     "vid": "https://www.youtube.com/embed/zw47_q9wbBE"
