@@ -339,7 +339,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "A remake of the classic space adventure game.  Lauded by critics",
     "img":"./images/games/metroid.png",
-    "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
+    "vid":"https://www.youtube.com/embed/RwhS76r0OqE"
   },
   {
     "tag": "18",
@@ -349,7 +349,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": 80000000,
     "desc":"The original Xbox was a fascinating statement of intent from Microsoft, but the 360 was the company’s masterpiece. Its Xbox Live multiplayer gaming service was brilliantly implemented allowing easy online play, and the addition of meta-mechanisms such as the GamerScore and Achievement points inspired players to spend longer exploring and perfecting games. Although blighted by the infamous ‘Red Ring of Death’ fault, a range of component faults that bricked thousands of machines, the 360 was a huge success, popularising the notion of the connected console and shifting 80m units.",
-    "vid": "https://www.youtube.com/watch?v=hWAKZitUZOo"
+    "vid": "https://www.youtube.com/embed/hWAKZitUZOo"
   },
   {
     "tag": "18.1",
