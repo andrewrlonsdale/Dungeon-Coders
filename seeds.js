@@ -62,7 +62,7 @@ db.games.insert([{
     "tag": "4",
     "name": "Vectrex",
     "year": "1982",
-    "img": "./images/games/vectrex.png",
+    "img": "./images/platforms/vectrex.png",
     "details": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
@@ -359,7 +359,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
-    "img":"./images/platforms/skyrim.png",
+    "img":"./images/games/skyrim.png",
     "vid":"https://www.youtube.com/watch?v=PjqsYzBrP-M"
   }, 
   {
