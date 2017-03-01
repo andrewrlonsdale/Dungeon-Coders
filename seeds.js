@@ -139,7 +139,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
     "img":"./images/games/wonderboy.png",
-    "vid":"https://www.youtube.com/watch?v=mrVhYC-4rns"
+    "vid":"https://www.youtube.com/embed/mrVhYC-4rns"
   },
   {  
     "tag": "8",
@@ -149,7 +149,7 @@ db.games.insert([{
     "details": "4mhz, 8kb RAM",
     "unitSales": 13000000,
     "desc":"Every generation has their schisms.  Were you a mod or a rocker? Punk or Prog? Blur or Oasis? For folks of a certain age, the big question was 'Sega or Nintendo??'.  The Master System by Sega was a big rival to the NES, offering an edgier stable of games to counter Nintendo's slightly more cutesy image.  Units moved from stores as quickly as Sonic the Hedgehog's trainers.",
-    "vid": "https://www.youtube.com/watch?v=r6x3iNB0ddo"
+    "vid": "https://www.youtube.com/embed/r6x3iNB0ddo"
   },
   {
     "tag": "8.1",
@@ -159,7 +159,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Everyone's favourite hyperactive hedgehog!",
     "img":"./images/games/sonic.png",
-    "vid":"https://www.youtube.com/watch?v=TP4UXvIZdBo"
+    "vid":"https://www.youtube.com/embed/TP4UXvIZdBo"
   },
   {  
     "tag": "9",
