@@ -99,7 +99,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Elite was something of a groundbreaker.  It featured a fully explorable procedurally generated universe for gamers to get lost in.  Think 'No Man's Sky' without all the hype and disappointment.",
     "img":"./images/games/elite.png",
-    "vid":"https://www.youtube.com/watch?v=batwiJmqZoE"
+    "vid":"https://www.youtube.com/embed/batwiJmqZoE"
   },
   { 
     "tag": "6",
@@ -109,7 +109,7 @@ db.games.insert([{
     "details": "2A03 8-bit processor",
     "unitSales": 62000000,
     "desc":"The Daddy. The era changer.  This little beige box sat under millions of TV sets, spawning a generation of hardcore gamers.  Seminal games like 'Jumpman' (You may know him better as Mario), and Donkey Kong, and peripheral hardware like the 'zapper' light gun (Duck Hunt, anyone?) made the NES a stellar commercial success and cemented Nintendo's place at the top of the industry for years to come.",
-    "vid": "https://www.youtube.com/watch?v=AazMLnLdAgk"
+    "vid": "https://www.youtube.com/embed/AazMLnLdAgk"
   },
   {
     "tag": "6.1",
@@ -119,7 +119,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "*The* video game, basically.  Defined the platform genre, and has been the cornerstone of the Nintendo stable for a quarter century.  Mario is the daddy.",
     "img":"./images/games/mario.png",
-    "vid":"https://www.youtube.com/watch?v=Aw4JccvxU-s"
+    "vid":"https://www.youtube.com/embed/Aw4JccvxU-s"
   },
   {  
     "tag": "7",
@@ -129,7 +129,7 @@ db.games.insert([{
     "details": "3.58mhz",
     "unitSales": 0,
     "desc":"The older, slightly dumber brother of the Sega master system.  Build with hardware by Texas Instruments (yes, the calculator people!) This fella was launched in Japan on the same day as the Famicom, or NES.  It had no real impact on the gaming industry, but as the forerunner to the master system, it is definitely worth a mention.",
-    "vid": "https://www.youtube.com/watch?v=SVYDqwI3ND4"
+    "vid": "https://www.youtube.com/embed/SVYDqwI3ND4"
   },
   {
     "tag": "7.1",
