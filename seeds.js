@@ -62,7 +62,7 @@ db.games.insert([{
     "tag": "4",
     "name": "Vectrex",
     "year": "1982",
-    "img": "./images/games/vectrex.png",
+    "img": "./images/platforms/vectrex.png",
     "details": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more..."
@@ -188,7 +188,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
-    "pic":"./images/games/anotherworld.png",
+    "img":"./images/games/anotherworld.png",
     "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
   },
   {  
@@ -207,7 +207,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
-    "pic":"./images/games/sor.png",
+    "img":"./images/games/sor.png",
     "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
   },
   {  
@@ -226,7 +226,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "Gory as hell! The seminal first person shooter. Multi platform, but the Jaguar did it justice.",
-    "pic":"./images/games/doom.png",
+    "img":"./images/games/doom.png",
     "vid":"https://www.youtube.com/watch?v=jP2jI0BVG0w"
   },
   {  
@@ -245,7 +245,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
-    "pic":"./images/games/wipeout.png",
+    "img":"./images/games/wipeout.png",
     "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
   },
   {  
@@ -264,7 +264,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
-    "pic":"./images/games/goldeneye.png",
+    "img":"./images/games/goldeneye.png",
     "vid":"https://www.youtube.com/watch?v=Bj1z7F5BkyM"
   },
   {  
@@ -283,7 +283,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "An irreverent driving sim.  Great fun!",
-    "pic":"./images/games/crazytaxi.png",
+    "img":"./images/games/crazytaxi.png",
     "vid":"https://www.youtube.com/watch?v=YhsE6qdQr1g"
   },
   {
@@ -302,7 +302,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
-    "pic":"./images/games/gtasa.png",
+    "img":"./images/games/gtasa.png",
     "vid":"https://www.youtube.com/watch?v=u_CbHrBbHNQ"
   },
   {  
@@ -321,7 +321,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "A remake of the classic space adventure game.  Lauded by critics",
-    "pic":"./images/games/metroid.png",
+    "img":"./images/games/metroid.png",
     "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
   },
   {
@@ -340,7 +340,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
-    "pic":"./images/games/fallout3.png",
+    "img":"./images/games/fallout3.png",
     "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
   },  
   {
@@ -359,7 +359,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
-    "pic":"./images/platforms/skyrim.png",
+    "img":"./images/games/skyrim.png",
     "vid":"https://www.youtube.com/watch?v=PjqsYzBrP-M"
   }, 
   {
@@ -378,7 +378,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "Wii Sports shipped with the console, in order to showcase the new-fangled motion sensor controller (Wiimote). Brough gaming to a whole new demographic.",
-    "pic": "./images/games/wiisports.png",
+    "img": "./images/games/wiisports.png",
     "vid":"https://www.youtube.com/watch?v=Ftyg6Sej3Kc"
   }, 
   {
@@ -397,7 +397,7 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
-    "pic": "./images/games/battlefield1.png",
+    "img": "./images/games/battlefield1.png",
     "vid":"https://www.youtube.com/watch?v=c7nRTF2SowQ"
   }, 
   {
@@ -412,11 +412,11 @@ db.games.insert([{
   {
     "tag": "21.1",
     "name": "Uncharted 4",
-    "year": "1986",
+    "year": "2013",
     "details": "n/a",
     "unitSales": "n/a",
     "desc": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
-    "pic": "./images/games/uc4.png",
+    "img": "./images/games/uc4.png",
     "vid":"https://www.youtube.com/watch?v=hh5HV4iic1Y"
   }, 
   {
@@ -435,6 +435,6 @@ db.games.insert([{
     "details": "n/a",
     "unitSales": "n/a",
     "Details": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
-    "pic": "./images/games/botw.png",
+    "img": "./images/games/botw.png",
     "vid":"https://www.youtube.com/watch?v=zw47_q9wbBE"
 }])
