@@ -50,11 +50,12 @@ UI.prototype = {
       var p = document.createElement('p');
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
+      var p4 = document.createElement('p');
+    
       var iframe = document.createElement('iframe');
 
       p.innerText= "Details: " + game.details;
       p2.innerText= "Sales: "+ game.unitSales;
-      p3.innerText= "Description: " + game.desc;
       p3.innerText= "Description: " + game.desc;
 
       p.setAttribute("id", "pop");
@@ -64,16 +65,18 @@ UI.prototype = {
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
       p3.setAttribute("class", "_" + game.tag);
-      iframe.setAttribute("class", "_" + game.tag);
+      p4.setAttribute("class", "_" + game.tag);
+      iframe.setAttribute("class", "tube");
       
+
       iframe.src = game.vid;  
       iframe.allowfullscreen = true;
       iframe.border = 0;
       container4.appendChild(p);
       container4.appendChild(p2);
       container4.appendChild(p3);
-      container4.appendChild(iframe);
-      
+      container4.appendChild(p4);
+      p4.appendChild(iframe);
       // Get the modal
       var modal = document.getElementById('myModal');
       var resetModal = function(){
