@@ -41,51 +41,32 @@ UI.prototype = {
       var container2 = document.querySelector('#head');
       var p = document.createElement('p');
       p.setAttribute("class", "_" + game.tag);
+      p.setAttribute("id", "pop");
       p.innerText= game.name;
 
       container2.appendChild(p);
-
-
-      var container3 = document.querySelector('#foot');
-      var p = document.createElement('p');
-      p.setAttribute("class", "_" + game.tag);
-      p.innerText= game.year;
-      container3.appendChild(p);
-
 
       var container4 = document.querySelector('#body');
       var p = document.createElement('p');
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
-      var p4 = document.createElement('p');
-      var p5 = document.createElement('p');
-      var p6 = document.createElement('p');
+    
 
-      p.innerText= game.details;
-      p2.innerText= game.unitSales;
-      p3.innerText= game.desc;
+      p.innerText= "Details: " + game.details;
+      p2.innerText= "Sales: "+ game.unitSales;
+      p3.innerText= "Description: " + game.desc;
 
-      p4.innerText= "Specifications :";
-      p5.innerText= "Sales:";
-      p6.innerText= "Description:";
+      p.setAttribute("id", "pop");
+      p2.setAttribute("id", "pop");
+      p3.setAttribute("id", "pop");
 
       p.setAttribute("class", "_" + game.tag);
       p2.setAttribute("class", "_" + game.tag);
       p3.setAttribute("class", "_" + game.tag);
 
-      p4.setAttribute("class", "_" + game.tag);
-      p5.setAttribute("class", "_" + game.tag);
-      p6.setAttribute("class", "_" + game.tag);
-      
-      container4.appendChild(p4);
       container4.appendChild(p);
-      container4.appendChild(p5);
       container4.appendChild(p2);
-      container4.appendChild(p6);
       container4.appendChild(p3);
-
-
-      
 
       // Get the modal
       var modal = document.getElementById('myModal');

@@ -35,7 +35,7 @@ db.games.insert([{
     "year": "1975",
     "details": "n/a",
     "unitSales": "n/a",
-    "Desc": "And here's the real thing... An arcade in your living room.",
+    "desc": "And here's the real thing... An arcade in your living room.",
     "img":"./images/games/pong.png",
     "vid":"https://www.youtube.com/watch?v=it0sf4CMDeM"
   },
@@ -54,7 +54,7 @@ db.games.insert([{
     "year": "1977",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
+    "desc": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
     "img":"./images/games/pacman.png",
     "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
   },
@@ -206,7 +206,7 @@ db.games.insert([{
     "year": "1988",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
+    "desc": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
     "img":"./images/games/sor.png",
     "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
   },
@@ -244,7 +244,7 @@ db.games.insert([{
     "year": "1994",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
+    "desc": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
     "img":"./images/games/wipeout.png",
     "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
   },
@@ -301,7 +301,7 @@ db.games.insert([{
     "year": "2000",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
+    "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
     "img":"./images/games/gtasa.png",
     "vid":"https://www.youtube.com/watch?v=u_CbHrBbHNQ"
   },
@@ -320,7 +320,7 @@ db.games.insert([{
     "year": "2001",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "A remake of the classic space adventure game.  Lauded by critics",
+    "desc": "A remake of the classic space adventure game.  Lauded by critics",
     "img":"./images/games/metroid.png",
     "vid":"https://www.youtube.com/watch?v=RwhS76r0OqE"
   },
@@ -339,7 +339,7 @@ db.games.insert([{
     "year": "2005",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
+    "desc": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
     "img":"./images/games/fallout3.png",
     "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
   },  
@@ -358,7 +358,7 @@ db.games.insert([{
     "year": "2005",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
+    "desc": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
     "img":"./images/games/skyrim.png",
     "vid":"https://www.youtube.com/watch?v=PjqsYzBrP-M"
   }, 
@@ -396,7 +396,7 @@ db.games.insert([{
     "year": "2013",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
+    "desc": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
     "img": "./images/games/battlefield1.png",
     "vid":"https://www.youtube.com/watch?v=c7nRTF2SowQ"
   }, 
@@ -434,7 +434,7 @@ db.games.insert([{
     "year": "2017",
     "details": "n/a",
     "unitSales": "n/a",
-    "Details": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
+    "desc": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
     "img": "./images/games/botw.png",
     "vid":"https://www.youtube.com/watch?v=zw47_q9wbBE"
 }])

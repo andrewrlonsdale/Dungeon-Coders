@@ -40,7 +40,6 @@ li {
   list-style-type: none;
   padding-right: 215px;
   margin-bottom: : 200px;
-  margin: 200px, 200px, 200px, 200px;
 
 }
 
@@ -164,7 +163,7 @@ li {
 #forest {
  display: inline-block;
  position: relative;
- width: 500vw;
+ width: 800vw;
  height: 100vh;
 }
 /*-------------------------------------------*/
@@ -304,5 +303,8 @@ img {
   display: inline-block;
 }
 
-
-
+ #pop {
+  color: purple;
+  font-family: myFirstFont;
+  font-size: 25px;
+}
