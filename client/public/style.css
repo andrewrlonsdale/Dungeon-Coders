@@ -187,7 +187,7 @@ li {
 
 .modal-content {
   position: relative;
-  background-color: #fefefe;
+  background-color: black;
   margin: auto;
   padding: 0;
   border: 1px solid #888;
@@ -227,7 +227,7 @@ li {
 
 .modal-header {
   padding: 2px 16px;
-  background-color: #5cb85c;
+  background-color: grey;
   color: white;
 }
 
@@ -243,7 +243,7 @@ li {
 
 
 /*-------------------------------------------*/
-                /*Home page*/
+/*Home page*/
 
 /*hompage heading*/
 h1#pacHead {
@@ -303,8 +303,14 @@ img {
   display: inline-block;
 }
 
- #pop {
+#pop {
   color: purple;
   font-family: myFirstFont;
   font-size: 25px;
 }
+
+
+iframe {
+  width: 560;
+  height: 315;
+} 

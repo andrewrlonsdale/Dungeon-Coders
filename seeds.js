@@ -417,7 +417,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
     "img": "./images/games/uc4.png",
-    "vid":"https://www.youtube.com/watch?v=hh5HV4iic1Y"
+    "vid":"https://www.youtube.com/embed/hh5HV4iic1Y"
   }, 
   {
     "tag": "23",
