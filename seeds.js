@@ -59,7 +59,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
     "img":"./images/games/pacman.png",
-    "vid":"https://www.youtube.com/watch?v=HL2p2ANFlQ4"
+    "vid":"https://www.youtube.com/embed/HL2p2ANFlQ4"
   },
   {  
     "tag": "4",
@@ -69,7 +69,7 @@ db.games.insert([{
     "details": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more...",
-    "vid": "https://www.youtube.com/watch?v=U8zTSfmITf4"
+    "vid": "https://www.youtube.com/embed/w2mb-ENbxxg"
   },
   {
     "tag": "4.1",
@@ -89,7 +89,7 @@ db.games.insert([{
     "details": "3.5mhz",
     "unitSales": 5000000,
     "desc":"Named the Spectrum due to its generous palette of eight colours, Sinclair’s follow up to the ZX81 was a legend of the 8bit era. Cheaper than the BBC Micro and Commodore 64, the machine (OK, it’s a computer, but we all know everyone used it as a games console) introduced a generation to both video games and programming, kickstarting the UK games industry. Its audio-visual performance was inferior to C64, but many of the decade’s finest games (Jet Set Willy, Lords of Midnight, The Hobbit) were made for the Speccy first. Developers still speak of it with misty-eyed nostalgia.",
-    "vid": "https://www.youtube.com/watch?v=V9G8HutB4Xg"
+    "vid": "https://www.youtube.com/embed/V9G8HutB4Xg"
   },
   {
     "tag": "5.1",
