@@ -409,7 +409,7 @@ db.games.insert([{
     "details": "3.2GHz",
     "unitSales": 4000000,
     "desc":" Announced in May 2013, this is the successor to the Xbox 360 and the third console in the Xbox family, and was released in North America, Europe (in some countries), Australia, and Brazil in November 2013, and in Japan, China, and other European countries in September 2014. It is the first Xbox game console to be released in China, specifically in the Shanghai Free-Trade Zone. Microsoft marketed the device as an 'all-in-one entertainment system' The Xbox One mainly competes against consoles such as Sonys PlayStation 4 and Nintendo's Wii U as part of the eighth generation of video game consoles.",
-    "vid": "https://www.youtube.com/watch?v=LIYeHCFttMc"
+    "vid": "https://www.youtube.com/embed/LIYeHCFttMc"
   },
   {
     "tag": "21.1",
@@ -419,7 +419,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
     "img": "./images/games/battlefield1.png",
-    "vid":"https://www.youtube.com/watch?v=c7nRTF2SowQ"
+    "vid":"https://www.youtube.com/embed/c7nRTF2SowQ"
   }, 
   {
     "tag": "22",
