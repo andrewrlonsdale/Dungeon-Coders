@@ -315,7 +315,7 @@ db.games.insert([{
     "tag": "16.1",
     "name": "Grand Theft Auto: San Andreas",
     "year": "2000",
-    "details": "n/a",
+    "details": "Action-adventure game",
     "unitSales": "n/a",
     "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
     "img":"./images/games/gtasa.png",
