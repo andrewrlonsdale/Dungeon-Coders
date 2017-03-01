@@ -108,7 +108,8 @@ db.games.insert([{
     "img": "./images/platforms/nintendo_entertainment_system.jpg",
     "details": "2A03 8-bit processor",
     "unitSales": 62000000,
-    "desc":"The Daddy. The era changer.  This little beige box sat under millions of TV sets, spawning a generation of hardcore gamers.  Seminal games like 'Jumpman' (You may know him better as Mario), and Donkey Kong, and peripheral hardware like the 'zapper' light gun (Duck Hunt, anyone?) made the NES a stellar commercial success and cemented Nintendo's place at the top of the industry for years to come."
+    "desc":"The Daddy. The era changer.  This little beige box sat under millions of TV sets, spawning a generation of hardcore gamers.  Seminal games like 'Jumpman' (You may know him better as Mario), and Donkey Kong, and peripheral hardware like the 'zapper' light gun (Duck Hunt, anyone?) made the NES a stellar commercial success and cemented Nintendo's place at the top of the industry for years to come.",
+    "vid": "https://www.youtube.com/watch?v=AazMLnLdAgk"
   },
   {
     "tag": "6.1",
