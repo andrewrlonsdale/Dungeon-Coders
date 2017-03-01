@@ -448,7 +448,8 @@ db.games.insert([{
     "img": "./images/platforms/nintendoswitch.png",
     "details": "3.2GHz",
     "unitSales": "In progress!",
-    "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath."
+    "desc":"The new kid on the block.  Hard to say yet what it will be like, but the portability an changable format are looking like a real innovation.  Plus, a new Zelda game!  We wait with bated breath.",
+    "vid": "https://www.youtube.com/watch?v=CdWd8fUC71g"
   },
   {
     "tag": "23.1",
