@@ -9,7 +9,7 @@ db.games.insert([{
     "details": "40 transistors and 40 diodes",
     "unitSales": "350,000",
     "desc":"Designed by German-American engineer Ralph Baer, pictured here with a prototype, the Magnavox Odyssey was the first commercial home video game console. Capable of displaying just three moving objects at once, the machine came with coloured overlays to place on the screen, thereby creating various play areas. Instead of microchips, the analog architecture consisted of 40 transistors and 40 diodes, while games came on printed circuit boards. This primitive set-up was enough to create a simple Table Tennis sim that would inspire the Atari classic, Pong.",
-    "vid": "https://www.youtube.com/watch?v=0MnRkPvIjKE"
+    "vid": "https://www.youtube.com/embed/0MnRkPvIjKE"
   },
   {
     "tag": "1.1",
@@ -19,7 +19,7 @@ db.games.insert([{
     "unitSales": "4 Million",
     "desc": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
     "img":"./images/games/magnavox_tennis.png",
-    "vid":"https://www.youtube.com/watch?v=bfmL6l128JU"
+    "vid":"https://www.youtube.com/embed/bfmL6l128JU"
   },
   {
     "tag": "2",
@@ -29,7 +29,7 @@ db.games.insert([{
     "details": "128k",
     "unitSales": 150000,
     "desc":"This was the system that really brought gaming into the mainstream.  Following the huge commercial success of the 'Pong' arcade machine, Christmas of 1975 saw the release of Home Pong, and the dawn of gaming in the home.",
-    "vid": "https://www.youtube.com/watch?v=9d5Ex-dJDtQ"
+    "vid": "https://www.youtube.com/embed/9d5Ex-dJDtQ"
   },
   {
     "tag": "2.1",
@@ -69,7 +69,7 @@ db.games.insert([{
     "details": "1.5mhz",
     "unitSales": 500000,
     "desc":"This was a unique machine.  Unlike it's peers, it came built with a vector monitor, rather than needing to be plugged into a TV.  The limitations of the monochrome monitor were gotten around by suppying the user with different coloured screen overlays! They just don't make 'em like that any more...",
-    "vid": "https://www.youtube.com/embed/w2mb-ENbxxg"
+    "vid": "https://www.youtube.com/embed/LEgVm0AEzJ0"
   },
   {
     "tag": "4.1",
@@ -79,7 +79,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
     "img":"./images/games/spacewars.png",
-    "vid":"https://www.youtube.com/watch?v=w2mb-ENbxxg"
+    "vid":"https://www.youtube.com/embed/w2mb-ENbxxg"
   },
   {
     "tag": "5",
