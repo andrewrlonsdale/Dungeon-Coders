@@ -429,7 +429,7 @@ db.games.insert([{
     "details": "729MHz",
     "unitSales": 101630000,
     "desc":"In late 2013 the world was treated to the release of the next generation in gaming consoles. The two main contenders of the console wars were, of course, Sony’s PlayStation 4 and Microsoft’s Xbox One. Sony’s PlayStation 4 has many new and advanced characteristics, as well as being packed to the brim with cutting-edge technology.",
-    "vid": "https://www.youtube.com/watch?v=VK03aVJekGg"
+    "vid": "https://www.youtube.com/embed/VK03aVJekGg"
   },
   {
     "tag": "22.1",
