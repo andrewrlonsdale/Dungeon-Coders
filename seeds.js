@@ -359,7 +359,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
     "img":"./images/games/fallout3.png",
-    "vid":"https://www.youtube.com/watch?v=pAN0ByjSsV4"
+    "vid":"https://www.youtube.com/embed/pAN0ByjSsV4"
   },  
   {
     "tag": "19",
