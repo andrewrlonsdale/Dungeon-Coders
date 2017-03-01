@@ -39,7 +39,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "And here's the real thing... An arcade in your living room.",
     "img":"./images/games/pong.png",
-    "vid":"https://www.youtube.com/watch?v=it0sf4CMDeM"
+    "vid":"https://www.youtube.com/embed/it0sf4CMDeM"
   },
   {  
     "tag": "3",
@@ -49,7 +49,7 @@ db.games.insert([{
     "details": "CPU: 1.19mhz, 128bytes RAM",
     "unitSales": 30000000,
     "desc":"Another game-changer from Atari.  The iconic 2600 was the first games console to use microprocessor based hardware along with a cartridge format, which meant that games no longer had to be hard-coded into the machine itself. It's not working? Blow on it and put it back in... There we go!",
-    "vid": "https://www.youtube.com/watch?v=913xrM9FYpI"
+    "vid": "https://www.youtube.com/embed/913xrM9FYpI"
   },
   {
     "tag": "3.1",
