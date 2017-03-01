@@ -199,7 +199,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
     "img":"./images/games/anotherworld.png",
-    "vid":"https://www.youtube.com/watch?v=1j4gO9sR7zs"
+    "vid":"https://www.youtube.com/embed/1j4gO9sR7zs"
   },
   {  
     "tag": "11",
@@ -209,7 +209,7 @@ db.games.insert([{
     "details": "7.6mhz",
     "unitSales": 30000000,
     "desc":"So we find ourselves in the heat of the console wars. The Mega-Drive's huge library of iver 900 games was a huge draw to gamers, eespecially those drawn to the  thrill of games like Night Trap and Mortal Kombat, whose content courted so much controversy that Sega created the Videogame Rating Council, predecessor to the Entertainment Software Rating Board.  We don't think that Sonic the Hedgehog cared much though.",
-    "vid": "https://www.youtube.com/watch?v=HabrsySeK4Q"
+    "vid": "https://www.youtube.com/embed/HabrsySeK4Q"
   },
   {
     "tag": "11.1",
@@ -219,7 +219,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
     "img":"./images/games/sor.png",
-    "vid":"https://www.youtube.com/watch?v=_ty6HjrDXpU"
+    "vid":"https://www.youtube.com/embed/_ty6HjrDXpU"
   },
   {  
     "tag": "12",
