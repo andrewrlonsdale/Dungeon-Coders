@@ -14,7 +14,7 @@ db.games.insert([{
   {
     "tag": "1.1",
     "name": "Table Tennis",
-    "year": "1972",
+    "year": "  ",
     "details": "Sports",
     "unitSales": "4 Million",
     "desc": "The forerunner to Pong! The console even came with a vinyl overlay to make it look like real tennis.  A more innocent time!",
@@ -34,7 +34,7 @@ db.games.insert([{
   {
     "tag": "2.1",
     "name": "Pong",
-    "year": "1975",
+    "year": "  ",
     "details": "Sports game",
     "unitSales": "300,000",
     "desc": "And here's the real thing... An arcade in your living room.",
@@ -54,7 +54,7 @@ db.games.insert([{
   {
     "tag": "3.1",
     "name": "Pacman",
-    "year": "1977",
+    "year": "  ",
     "details": "arcade",
     "unitSales": "300,000",
     "desc": "Another arcade classic now playable in the home. The difference between Pacman and Ms Pacman? She has a bow in hair...",
@@ -74,7 +74,7 @@ db.games.insert([{
   {
     "tag": "4.1",
     "name": "Space Wars",
-    "year": "1982",
+    "year": "  ",
     "details": "Space flight simulation game",
     "unitSales": "300,000",
     "desc": "Epic space battles! Now there was another space-shenanigans epic in 1977, sounded a lot like Space Wars...",
@@ -94,7 +94,7 @@ db.games.insert([{
   {
     "tag": "5.1",
     "name": "Elite",
-    "year": "1982",
+    "year": "  ",
     "details": "Space flight simulation game",
     "unitSales": "300,000",
     "desc": "Elite was something of a groundbreaker.  It featured a fully explorable procedurally generated universe for gamers to get lost in.  Think 'No Man's Sky' without all the hype and disappointment.",
@@ -114,7 +114,7 @@ db.games.insert([{
   {
     "tag": "6.1",
     "name": "Super Mario Bros",
-    "year": "1983",
+    "year": " ",
     "details": "Platform game",
     "unitSales": "300,000",
     "desc": "*The* video game, basically.  Defined the platform genre, and has been the cornerstone of the Nintendo stable for a quarter century.  Mario is the daddy.",
@@ -134,7 +134,7 @@ db.games.insert([{
   {
     "tag": "7.1",
     "name": "Wonder Boy",
-    "year": "1984",
+    "year": " ",
     "details": "Platform game",
     "unitSales": "300,000",
     "desc": "A little-remembered platformer on an almost forgotten console. Some loved it though!",
@@ -154,7 +154,7 @@ db.games.insert([{
   {
     "tag": "8.1",
     "name": "Sonic The Hedgehog",
-    "year": "1985",
+    "year": " ",
     "details": "Platform game",
     "unitSales": "300,000",
     "desc": "Everyone's favourite hyperactive hedgehog!",
@@ -174,7 +174,7 @@ db.games.insert([{
   {
     "tag": "9.1",
     "name": "Asteroids",
-    "year": "1986",
+    "year": " ",
     "details": "arcade",
     "unitSales": "300,000",
     "desc": "Another arcade regular makes its way into the home.",
@@ -194,7 +194,7 @@ db.games.insert([{
   {
     "tag": "10.1",
     "name": "Another World",
-    "year": "1987",
+    "year": " ",
     "details": " Action-adventure game",
     "unitSales": "300,000",
     "desc": "This was a really extraordinary game.  Years ahead of its time, it showed the capabilities of the amiga system. Even then, PC gamers were a different breed...",
@@ -214,7 +214,7 @@ db.games.insert([{
   {
     "tag": "11.1",
     "name": "Streets of Rage",
-    "year": "1988",
+    "year": " ",
     "details": "Beat 'em up",
     "unitSales": "300,000",
     "desc": "Classic of the beat-em-up genre and one of the games discussed in the video game violence debate. Won't somebody think of the children?!",
@@ -234,7 +234,7 @@ db.games.insert([{
   {
     "tag": "12.1",
     "name": "Doom",
-    "year": "1994",
+    "year": " ",
     "details": "First-person shooter",
     "unitSales": "300,000",
     "desc": "Gory as hell! The seminal first person shooter. Multi platform, but the Jaguar did it justice.",
@@ -254,7 +254,7 @@ db.games.insert([{
   {
     "tag": "13.1",
     "name": "Wipeout",
-    "year": "1994",
+    "year": " ",
     "details": "Racing video game",
     "unitSales": "300,000",
     "desc": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
@@ -274,7 +274,7 @@ db.games.insert([{
   {
     "tag": "14.1",
     "name": "Goldeneye 007",
-    "year": "1996",
+    "year": " ",
     "details": "First-person shooter",
     "unitSales": "300,000",
     "desc": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
@@ -294,7 +294,7 @@ db.games.insert([{
   {
     "tag": "15.1",
     "name": "Crazy Taxi",
-    "year": "1998",
+    "year": "  ",
     "details": "racing video game",
     "unitSales": "300,000",
     "desc": "An irreverent driving sim.  Great fun!",
@@ -314,7 +314,7 @@ db.games.insert([{
   {
     "tag": "16.1",
     "name": "Grand Theft Auto: San Andreas",
-    "year": "2000",
+    "year": "  ",
     "details": "Action-adventure game",
     "unitSales": "300,000",
     "desc": "Rockstar broke the mould with this extraordinary game.  Totally open world, fantastically realised characters and dark humour. An absolute classic.",
@@ -334,7 +334,7 @@ db.games.insert([{
   {
     "tag": "17.1",
     "name": "Metroid Prime",
-    "year": "2001",
+    "year": "   ",
     "details": "Action-adventure game",
     "unitSales": "300,000",
     "desc": "A remake of the classic space adventure game.  Lauded by critics",
@@ -354,7 +354,7 @@ db.games.insert([{
   {
     "tag": "18.1",
     "name": "Fallout 3",
-    "year": "2005",
+    "year": "  ",
     "details": "Action role-playing game",
     "unitSales": "300,000",
     "desc": "Life in a post-apocalyptic wastlend with a retro 50s feel. Cross platform, loved by Xbox and PS fans alike.",
@@ -374,7 +374,7 @@ db.games.insert([{
   {
     "tag": "19.1",
     "name": "Skyrim",
-    "year": "2005",
+    "year": "   ",
     "details": "Action role-playing game",
     "unitSales": "300,000",
     "desc": "A Bethesda pick for the PS and XB? Well I'm biased, sue me.  Skyrim was a fantastic, glitch ridden masterpiece which pushed the hardware to it's very limits.",
@@ -394,7 +394,7 @@ db.games.insert([{
   {
     "tag": "20.1",
     "name": "Wii Sports",
-    "year": "2006",
+    "year": "  ",
     "details": "sports game",
     "unitSales": "300,000",
     "desc": "Wii Sports shipped with the console, in order to showcase the new-fangled motion sensor controller (Wiimote). Brough gaming to a whole new demographic.",
@@ -414,7 +414,7 @@ db.games.insert([{
   {
     "tag": "21.1",
     "name": "Battlefield 1",
-    "year": "2013",
+    "year": "   ",
     "details": "First-person shooter",
     "unitSales": "300,000",
     "desc": "Possibly the technical zenith of the FPS. Amazing graphics and sound design take you to the trenches of WW1.",
@@ -434,7 +434,7 @@ db.games.insert([{
   {
     "tag": "22.1",
     "name": "Uncharted 4",
-    "year": "2013",
+    "year": "  ",
     "details": "third-person shooter",
     "unitSales": "300,000",
     "desc": "An action adventure romp around the world with wisecracking protagonist Nathan Drake. Jaw dropping setting and action and a beautifully paced story.  Even a reference to an earlier Naughty Dog game for the long time fans.",
@@ -454,7 +454,7 @@ db.games.insert([{
   {
     "tag": "23.1",
     "name": "The Legend Of Zelda: Breath Of The Wild",
-    "year": "2017",
+    "year": "   ",
     "details": "Action-adventure game",
     "unitSales": "300,000",
     "desc": "Nintendo are back, it seems.  We rejoin Link after nearly 30 years of first meeting him.  He's aged well, don't you think?",
