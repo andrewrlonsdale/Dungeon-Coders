@@ -259,7 +259,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "Racing game with graphics and gameplay that blew people away.  This game shipped with the original console.",
     "img":"./images/games/wipeout.png",
-    "vid":"https://www.youtube.com/watch?v=ukOU1FpKTOM"
+    "vid":"https://www.youtube.com/embed/ukOU1FpKTOM"
   },
   {  
     "tag": "14",
@@ -269,7 +269,7 @@ db.games.insert([{
     "details": "93.59mhz",
     "unitSales": 33000000,
     "desc":"What a way to end the cartridge era. Launched with the games Super Mario 64 and Pilotwings 64, the N64 was a runaway sucess and remains the 9th highest selling console of all time. It did not have the largest selection of games, but boy, what games.  Mario 64 and Zelda: Ocarina Of Time are still regarded as among the best games ever made, and GoldenEye 007 was a seminal title in the shooter genre. ed. - One of these glorious machines still has pride of place beneath my TV, 20 years on!",
-    "vid": "https://www.youtube.com/watch?v=Up9jO2l2wqo"
+    "vid": "https://www.youtube.com/embed/Up9jO2l2wqo"
   },
   {
     "tag": "14.1",
@@ -279,7 +279,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "It's a movie spin off, it won't be much good, right? Wrong. Still one of the best first person shooters ever made.",
     "img":"./images/games/goldeneye.png",
-    "vid":"https://www.youtube.com/watch?v=Bj1z7F5BkyM"
+    "vid":"https://www.youtube.com/embed/1DzOlX9OLyo"
   },
   {  
     "tag": "15",
@@ -289,7 +289,7 @@ db.games.insert([{
     "details": "200mhz",
     "unitSales": 9130000,
     "desc":"The dreamcast is one of those pieces of tech that found themselves, like the betamax and minidisc, slightly ahead of their time.  There was limited support for third party software publishers which resulted in a limited library of games, but this console featured innovations like a modem to enable online play.",
-    "vid": "https://www.youtube.com/watch?v=V8XVA0qrHWg"
+    "vid": "https://www.youtube.com/embed/V8XVA0qrHWg"
   },
   {
     "tag": "15.1",
@@ -299,7 +299,7 @@ db.games.insert([{
     "unitSales": "n/a",
     "desc": "An irreverent driving sim.  Great fun!",
     "img":"./images/games/crazytaxi.png",
-    "vid":"https://www.youtube.com/watch?v=YhsE6qdQr1g"
+    "vid":"https://www.youtube.com/embed/YhsE6qdQr1g"
   },
   {
     "tag": "16",

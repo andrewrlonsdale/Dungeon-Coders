@@ -10,3 +10,5 @@
 "Who uses trello"? -- Andrew, Sunday
 
 "Mac and Cheese! Aye"  -- Sean, Tuesday
+
+"I think we have too many commits guys." -- Andrew, Wednesday
