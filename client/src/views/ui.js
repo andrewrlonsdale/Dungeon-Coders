@@ -51,7 +51,7 @@ UI.prototype = {
       var p2 = document.createElement('p');
       var p3 = document.createElement('p');
       var p4 = document.createElement('p');
-    
+      
       var iframe = document.createElement('iframe');
 
       p.innerText= "Details: " + game.details;
