@@ -1,4 +1,5 @@
-config = {
+var path = require('path')
+var config = {
   entry: "./src/app.js",
   output: {
     filename: "bundle.js",
