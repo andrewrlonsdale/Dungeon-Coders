@@ -6,10 +6,14 @@ To run:
 
 ```bash
 npm install && npm start 
+
+cd client/ 
+npm install && npm start 
 ```
 ⌘T
 
 ```bash
+mongo < seed.js
 mongod 
 ```
 
