@@ -3,15 +3,18 @@
 ##An interactive webpage that takes the user on a journey through the colourful history of all things GAME.
 
 To run:
+Open terminal on folder
 
 ```bash
 npm install && npm start 
+```
 
+⌘T
+```bash
 cd client/ 
 npm install && npm start 
 ```
 ⌘T
-
 ```bash
 mongo < seed.js
 mongod 
